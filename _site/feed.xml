@@ -1,159 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T18:09:16-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">Title IV - The Legislative Branch</title><link href="http://localhost:4000/Statutes/TitleIV/" rel="alternate" type="text/html" title="Title IV - The Legislative Branch" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_iv</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleIV/">&lt;blockquote&gt;
-  &lt;p&gt;Last Revised: 4-3-19&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T18:30:25-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
 
-  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;legislative-executive-board&quot;&gt;Legislative Executive Board&lt;/h2&gt;
+&lt;p&gt;The Legislative Executive Board (LEB) deals with overseeing general operations of the Senate and creating policy. A major role of the LEB is to conduct Senator accountability reports, discuss weekly committee updates, and ensure that the Senate is operating effectively. The LEB is comprised of five voting members: Senate President, Senate President Pro Tempore, Audit and Budget Committee Chair, Student Organizations Committee Chair, and Information and Communications Committee Chair.&lt;/p&gt;
 
-&lt;h2 id=&quot;title-4-the-legislative-branch&quot;&gt;Title 4 The Legislative Branch&lt;/h2&gt;
+&lt;p&gt;Contact the &lt;a href=&quot;mailto:senate@floridapoly.edu&quot;&gt;Legislative Executive Board&lt;/a&gt;&lt;/p&gt;
 
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 400: Legislative Authority&lt;/p&gt;
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 401: General Requirements&lt;/p&gt;
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 402: Ranking Officers of the Senate&lt;/p&gt;
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 403: Order of Succession&lt;/p&gt;
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 404: Legislation of the Legislative Branch&lt;/p&gt;
-&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 405: Composition of Legislation&lt;/p&gt;
+&lt;h2 id=&quot;audit-and-budget-committee&quot;&gt;Audit and Budget Committee&lt;/h2&gt;
+&lt;p&gt;The Audit and Budget Committee (ABC) deals with Student Government’s funding. A major role of the ABC is to help Registered Student Organizations (RSO) receive funding by submitting a budget proposal and going through revisions which will then be passed on to Senate to see if there are any more revisions needed. The ABC is committed to helping students and RSOs receive funding through certain line items in the SGA Budget.&lt;/p&gt;
 
-&lt;style&gt;
-	#legal-list { 
-		counter-reset: section; 
-		counter-increment: section -1;
-	}
-	#legal-list h3:before { 
-		content: &quot;40&quot; counter(section) &quot;. &quot;;
-		counter-increment: section;
-		margin: 0 0.5em 0 0;
-	}
-	#legal-list ol {
-		counter-reset: clause;
-		list-style: none outside none;
-		text-indent: -1em;
-	}
-	#legal-list ol li { counter-increment: clause; }
-	#legal-list ol li:before {
-		content: &quot;40&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
-		margin: 0 0.5em 0 0;
-	}
-&lt;/style&gt;
+&lt;p&gt;Contact the &lt;a href=&quot;mailto:ABC@floridapoly.edu&quot;&gt;Audit and Budget Committee&lt;/a&gt;&lt;/p&gt;
 
-&lt;html&gt;
-&lt;body id=&quot;legal-list&quot;&gt;
-	&lt;h3&gt;Legislative Authority&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;The composition and authority of the Legislative Branch shall be as contained in the SGA Constitution.&lt;/li&gt;
-	&lt;/ol&gt;
-	&lt;h3&gt;General Requirements&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;Senators shall be in compliance with the standards for being a member of the Legislative Branch as stated in the SGA Constitution and SGA Statutes.
-			&lt;ol&gt;
-				&lt;li&gt;All Senators are required to serve on at least one Standing Committee.&lt;/li&gt;
-				&lt;li&gt;Standing Committees of the Senate and voting rights of members of Standing Committees shall be outlined in the Senate Handbook.&lt;/li&gt;
-				&lt;li&gt;Senators are expected to attend all Senate Meetings and Standing Committee Meetings for which they are voting Members.
-					&lt;ol&gt;
-						&lt;li&gt;Attendance at these meetings shall be monitored by means of the Legislative Accountability Report which is further outlined within the Senate Handbook&lt;/li&gt;
-						&lt;li&gt;Additional and alternative attendance requirements may be outlined in the Student Government Senate Handbook&lt;/li&gt;
-					&lt;/ol&gt;
-				&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-	&lt;/ol&gt;
-	&lt;h3&gt;Ranking Officers of the Senate&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;The following are ranking officers of the Senate:
-			&lt;ol&gt;
-				&lt;li&gt;The Senate President&lt;/li&gt;
-				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
-				&lt;li&gt;The Senate Audit and Budget Committee Chair&lt;/li&gt;
-				&lt;li&gt;The Senate Information and Communication Committee Chair&lt;/li&gt;
-				&lt;li&gt;The Senate Student Organization Committee Chair&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Ranking officers will take on their position at the beginning of the session and will terminate their position at the end of the session.&lt;/li&gt;
-		&lt;li&gt;The Duties of the Senate President:
-			&lt;ol&gt;
-				&lt;li&gt;Those duties enumerated in the Constitution.&lt;/li&gt;
-				&lt;li&gt;To represent the Senate before the administration.&lt;/li&gt;
-				&lt;li&gt;To prepare the agenda for all Senate General Meetings&lt;/li&gt;
-				&lt;li&gt;To oversee the day-to-day operations of the Senate.&lt;/li&gt;
-				&lt;li&gt;Those duties enumerated in the Senate Handbook&lt;/li&gt;
-				&lt;li&gt;Sign all necessary legislation approved by the Senate and notify the relevant parties&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Dutios of the Senate Pro Tempore:
-			&lt;ol&gt;
-				&lt;li&gt;To fulfill the duties of the Senate President should they become unable to perform their duties.&lt;/li&gt;
-				&lt;li&gt;To aid the Senate President in his or her duties.&lt;/li&gt;
-				&lt;li&gt;Those dutios enumerated in the Senate Handbook&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Duties of the Committee Chairs
-			&lt;ol&gt;
-				&lt;li&gt;To manage all activities within their respective Committees.&lt;/li&gt;
-				&lt;li&gt;To maintain attendance records within their respective Committees.&lt;/li&gt;
-				&lt;li&gt;Those duties outlined for Committee Chairs in the Senate Handbook.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-	&lt;/ol&gt;
-	&lt;h3&gt;Order of Succession&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;Should the Senate President be unable to fulfill their duties; the order of succession shall be:
-			&lt;ol&gt;
-				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
-				&lt;li&gt;Audit and Budget Committee chair&lt;/li&gt;
-				&lt;li&gt;Student Organization Committee chair&lt;/li&gt;
-				&lt;li&gt;Information and Communication Committee Chair&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-	&lt;/ol&gt;
-	&lt;h3&gt;Legislation of the Legislative Branch&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;Legislation approved by the Legislative Branch must be approved or vetoed by the Student Body President within fifteen (15) business days of approval. The legislation will pass by default if the President fails to act.&lt;/li&gt;
-		&lt;li&gt;Legislation will follow the classifications outlined in Article 3, Section 6, part h of the SGA Constitution.&lt;/li&gt;
-		&lt;li&gt;The Senate President shall submit all bills to the Student Body President within five (5) business days of the bill being passed by the Senate.
-			&lt;ol&gt;
-				&lt;li&gt;If the Senate President does not submit the bills within five (5) business days, the Senate President Pro Tempore will submit the bills within another five (5) business days.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;All vetoed bills that have been overridden by a Supermajority vote of the Senate will follow the above procedures outlined in 404.3.&lt;/li&gt;
-	&lt;/ol&gt;
-	&lt;h3&gt;Composition of Legislation&lt;/h3&gt;
-	&lt;ol&gt;
-		&lt;li&gt;All forms of Legislation except for subsidiary budgets will contain the following:
-			&lt;ol&gt;
-				&lt;li&gt;Title and Subject&lt;/li&gt;
-				&lt;li&gt;Legislative Intent&lt;/li&gt;
-				&lt;li&gt;Enacting Clause&lt;/li&gt;
-				&lt;li&gt;Effective Date&lt;/li&gt;
-				&lt;li&gt;Senate Sponsor&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Title and Subject
-			&lt;ol&gt;
-				&lt;li&gt;The subject of each bill will be briefly expressed in its title and subject.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Legislative Intent
-			&lt;ol&gt;
-				&lt;li&gt;Legislative intent explains the purpose and intent of the legislation.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Enacting Clause
-			&lt;ol&gt;
-				&lt;li&gt;Enacting clauses state the entity that has the authority to enact the legislation.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Effective Date
-			&lt;ol&gt;
-				&lt;li&gt;The Effective Date states when the legislation will take effect.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-		&lt;li&gt;Senate Sponsor
-			&lt;ol&gt;
-				&lt;li&gt;The senate sponsor is the senator who initially promotes the legislation.&lt;/li&gt;
-			&lt;/ol&gt;
-		&lt;/li&gt;
-	&lt;/ol&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">SGA Branches</title><link href="http://localhost:4000/Branches/" rel="alternate" type="text/html" title="SGA Branches" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/branches</id><content type="html" xml:base="http://localhost:4000/Branches/">&lt;p&gt;The Student Government Association is composed of an Executive, Legislative, and Judicial branch.&lt;/p&gt;
+&lt;h2 id=&quot;student-organizations-committee&quot;&gt;Student Organizations Committee&lt;/h2&gt;
+&lt;p&gt;The Student Organizations Committee (SOC) deals with student organizations and clubs. A major role of the SOC is to approve and manage Registered Student Organizations. Students may submit paperwork to apply for a new organization at any time, and the SOC will work with the students through the process. The SOC is here for the students and to help create a better, more active campus life.&lt;/p&gt;
+
+&lt;p&gt;Contact the &lt;a href=&quot;mailto:SOC@floridapoly.edu&quot;&gt;Student Organizations Committee&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;information-and-communications-committee&quot;&gt;Information and Communications Committee&lt;/h2&gt;
+&lt;p&gt;The Information and Communications Committee (ICC) deals with SGA and Legislative Branch communication. A major role of the ICC is to help keep students and other SGA members informed. The ICC is committed to keeping SGA and students informed throughout the year.&lt;/p&gt;
+
+&lt;p&gt;Contact the &lt;a href=&quot;mailto:ICC@floridapoly.edu&quot;&gt;Information and Communication Committee&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">Florida Poly’s Student Government Association currently has four legistaltive committees.</summary></entry><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+
+&lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIII/&quot;&gt;Title III - The Executive Branch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIV/&quot;&gt;Title IV - The Legislative Branch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleV/&quot;&gt;Title V - The Judicial Branch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleVI/&quot;&gt;Title VI - Elections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.</summary></entry><entry><title type="html">SGA Branches</title><link href="http://localhost:4000/Branches/" rel="alternate" type="text/html" title="SGA Branches" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/branches</id><content type="html" xml:base="http://localhost:4000/Branches/">&lt;p&gt;The Student Government Association is composed of an Executive, Legislative, and Judicial branch.&lt;/p&gt;
 
 &lt;h2 id=&quot;executive-branch&quot;&gt;Executive Branch&lt;/h2&gt;
 &lt;p&gt;The Executive Branch includes the Student Body President, Vice President, Treasurer, Secretary, and an Executive Cabinet. The Cabinet includes various Executive Committees as appointed by the Student Body President. They are the students’ voice and liaison between the students and the administration.&lt;/p&gt;
@@ -568,27 +443,46 @@ b)	The Senators shall assume office at the first meeting following validation by
 
 &lt;p&gt;&lt;em&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;b&gt;Title&lt;/b&gt; 06-06: Voting Method Amendment&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;b&gt;Brief:&lt;/b&gt; This bill will amend the Student Body constitution to remove the run-off election to be replaced with a voting method section. This will allow the student body to choose what method of voting they want to use for elections. Ranked Choice Voting or similar methods may be chosen for future elections.&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="Constitution" /><summary type="html"></summary></entry><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;b&gt;Brief:&lt;/b&gt; This bill will amend the Student Body constitution to remove the run-off election to be replaced with a voting method section. This will allow the student body to choose what method of voting they want to use for elections. Ranked Choice Voting or similar methods may be chosen for future elections.&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="Constitution" /><summary type="html"></summary></entry><entry><title type="html">Title VI - Elections</title><link href="http://localhost:4000/Statutes/TitleVI/" rel="alternate" type="text/html" title="Title VI - Elections" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_vi</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleVI/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 04.08.20&lt;/p&gt;
 
-&lt;h2 id=&quot;legislative-executive-board&quot;&gt;Legislative Executive Board&lt;/h2&gt;
-&lt;p&gt;The Legislative Executive Board (LEB) deals with overseeing general operations of the Senate and creating policy. A major role of the LEB is to conduct Senator accountability reports, discuss weekly committee updates, and ensure that the Senate is operating effectively. The LEB is comprised of five voting members: Senate President, Senate President Pro Tempore, Audit and Budget Committee Chair, Student Organizations Committee Chair, and Information and Communications Committee Chair.&lt;/p&gt;
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Contact the &lt;a href=&quot;mailto:senate@floridapoly.edu&quot;&gt;Legislative Executive Board&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;title-6-elections&quot;&gt;Title 6 Elections&lt;/h2&gt;
 
-&lt;h2 id=&quot;audit-and-budget-committee&quot;&gt;Audit and Budget Committee&lt;/h2&gt;
-&lt;p&gt;The Audit and Budget Committee (ABC) deals with Student Government’s funding. A major role of the ABC is to help Registered Student Organizations (RSO) receive funding by submitting a budget proposal and going through revisions which will then be passed on to Senate to see if there are any more revisions needed. The ABC is committed to helping students and RSOs receive funding through certain line items in the SGA Budget.&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 600: Elections Code of Ethics&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 601: Elections Committee&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 602: Candidacy&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 603: Campaigning&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 604: Voting&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 605: Election Results&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 606: Student Government Association Orientation&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 607: Apportionment&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 608: Voting Method&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 609: Marking a Ballot&lt;/p&gt;
 
-&lt;p&gt;Contact the &lt;a href=&quot;mailto:ABC@floridapoly.edu&quot;&gt;Audit and Budget Committee&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;student-organizations-committee&quot;&gt;Student Organizations Committee&lt;/h2&gt;
-&lt;p&gt;The Student Organizations Committee (SOC) deals with student organizations and clubs. A major role of the SOC is to approve and manage Registered Student Organizations. Students may submit paperwork to apply for a new organization at any time, and the SOC will work with the students through the process. The SOC is here for the students and to help create a better, more active campus life.&lt;/p&gt;
-
-&lt;p&gt;Contact the &lt;a href=&quot;mailto:SOC@floridapoly.edu&quot;&gt;Student Organizations Committee&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;information-and-communications-committee&quot;&gt;Information and Communications Committee&lt;/h2&gt;
-&lt;p&gt;The Information and Communications Committee (ICC) deals with SGA and Legislative Branch communication. A major role of the ICC is to help keep students and other SGA members informed. The ICC is committed to keeping SGA and students informed throughout the year.&lt;/p&gt;
-
-&lt;p&gt;Contact the &lt;a href=&quot;mailto:ICC@floridapoly.edu&quot;&gt;Information and Communication Committee&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">Florida Poly’s Student Government Association currently has four legistaltive committees.</summary></entry><entry><title type="html">Title I - Introduction to SGA Statutes</title><link href="http://localhost:4000/Statutes/TitleI/" rel="alternate" type="text/html" title="Title I - Introduction to SGA Statutes" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_i</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleI/">&lt;blockquote&gt;
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;50&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;50&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 04.08.20 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title I - Introduction to SGA Statutes</title><link href="http://localhost:4000/Statutes/TitleI/" rel="alternate" type="text/html" title="Title I - Introduction to SGA Statutes" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_i</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleI/">&lt;blockquote&gt;
   &lt;p&gt;Last Revised: 6-28-19&lt;/p&gt;
 
   &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
@@ -1040,13 +934,279 @@ b)	The Senators shall assume office at the first meeting following validation by
     	&lt;li&gt;After initial contact, relevant bodies within SGA may maintain communication with University Administration.&lt;/li&gt;
     &lt;/ol&gt;
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title IV - The Legislative Branch</title><link href="http://localhost:4000/Statutes/TitleIV/" rel="alternate" type="text/html" title="Title IV - The Legislative Branch" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_iv</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleIV/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 4-3-19&lt;/p&gt;
 
-&lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIII/&quot;&gt;Title III - The Executive Branch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Title IV - The Legislative Branch&lt;/li&gt;
-  &lt;li&gt;Title V - The Judicial Branch&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.</summary></entry></feed>
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-4-the-legislative-branch&quot;&gt;Title 4 The Legislative Branch&lt;/h2&gt;
+
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 400: Legislative Authority&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 401: General Requirements&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 402: Ranking Officers of the Senate&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 403: Order of Succession&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 404: Legislation of the Legislative Branch&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 405: Composition of Legislation&lt;/p&gt;
+
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;40&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;40&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+	&lt;h3&gt;Legislative Authority&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The composition and authority of the Legislative Branch shall be as contained in the SGA Constitution.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;General Requirements&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Senators shall be in compliance with the standards for being a member of the Legislative Branch as stated in the SGA Constitution and SGA Statutes.
+			&lt;ol&gt;
+				&lt;li&gt;All Senators are required to serve on at least one Standing Committee.&lt;/li&gt;
+				&lt;li&gt;Standing Committees of the Senate and voting rights of members of Standing Committees shall be outlined in the Senate Handbook.&lt;/li&gt;
+				&lt;li&gt;Senators are expected to attend all Senate Meetings and Standing Committee Meetings for which they are voting Members.
+					&lt;ol&gt;
+						&lt;li&gt;Attendance at these meetings shall be monitored by means of the Legislative Accountability Report which is further outlined within the Senate Handbook&lt;/li&gt;
+						&lt;li&gt;Additional and alternative attendance requirements may be outlined in the Student Government Senate Handbook&lt;/li&gt;
+					&lt;/ol&gt;
+				&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Ranking Officers of the Senate&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The following are ranking officers of the Senate:
+			&lt;ol&gt;
+				&lt;li&gt;The Senate President&lt;/li&gt;
+				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
+				&lt;li&gt;The Senate Audit and Budget Committee Chair&lt;/li&gt;
+				&lt;li&gt;The Senate Information and Communication Committee Chair&lt;/li&gt;
+				&lt;li&gt;The Senate Student Organization Committee Chair&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Ranking officers will take on their position at the beginning of the session and will terminate their position at the end of the session.&lt;/li&gt;
+		&lt;li&gt;The Duties of the Senate President:
+			&lt;ol&gt;
+				&lt;li&gt;Those duties enumerated in the Constitution.&lt;/li&gt;
+				&lt;li&gt;To represent the Senate before the administration.&lt;/li&gt;
+				&lt;li&gt;To prepare the agenda for all Senate General Meetings&lt;/li&gt;
+				&lt;li&gt;To oversee the day-to-day operations of the Senate.&lt;/li&gt;
+				&lt;li&gt;Those duties enumerated in the Senate Handbook&lt;/li&gt;
+				&lt;li&gt;Sign all necessary legislation approved by the Senate and notify the relevant parties&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Dutios of the Senate Pro Tempore:
+			&lt;ol&gt;
+				&lt;li&gt;To fulfill the duties of the Senate President should they become unable to perform their duties.&lt;/li&gt;
+				&lt;li&gt;To aid the Senate President in his or her duties.&lt;/li&gt;
+				&lt;li&gt;Those dutios enumerated in the Senate Handbook&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Duties of the Committee Chairs
+			&lt;ol&gt;
+				&lt;li&gt;To manage all activities within their respective Committees.&lt;/li&gt;
+				&lt;li&gt;To maintain attendance records within their respective Committees.&lt;/li&gt;
+				&lt;li&gt;Those duties outlined for Committee Chairs in the Senate Handbook.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Order of Succession&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Should the Senate President be unable to fulfill their duties; the order of succession shall be:
+			&lt;ol&gt;
+				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
+				&lt;li&gt;Audit and Budget Committee chair&lt;/li&gt;
+				&lt;li&gt;Student Organization Committee chair&lt;/li&gt;
+				&lt;li&gt;Information and Communication Committee Chair&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Legislation of the Legislative Branch&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Legislation approved by the Legislative Branch must be approved or vetoed by the Student Body President within fifteen (15) business days of approval. The legislation will pass by default if the President fails to act.&lt;/li&gt;
+		&lt;li&gt;Legislation will follow the classifications outlined in Article 3, Section 6, part h of the SGA Constitution.&lt;/li&gt;
+		&lt;li&gt;The Senate President shall submit all bills to the Student Body President within five (5) business days of the bill being passed by the Senate.
+			&lt;ol&gt;
+				&lt;li&gt;If the Senate President does not submit the bills within five (5) business days, the Senate President Pro Tempore will submit the bills within another five (5) business days.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;All vetoed bills that have been overridden by a Supermajority vote of the Senate will follow the above procedures outlined in 404.3.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Composition of Legislation&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;All forms of Legislation except for subsidiary budgets will contain the following:
+			&lt;ol&gt;
+				&lt;li&gt;Title and Subject&lt;/li&gt;
+				&lt;li&gt;Legislative Intent&lt;/li&gt;
+				&lt;li&gt;Enacting Clause&lt;/li&gt;
+				&lt;li&gt;Effective Date&lt;/li&gt;
+				&lt;li&gt;Senate Sponsor&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Title and Subject
+			&lt;ol&gt;
+				&lt;li&gt;The subject of each bill will be briefly expressed in its title and subject.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Legislative Intent
+			&lt;ol&gt;
+				&lt;li&gt;Legislative intent explains the purpose and intent of the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Enacting Clause
+			&lt;ol&gt;
+				&lt;li&gt;Enacting clauses state the entity that has the authority to enact the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Effective Date
+			&lt;ol&gt;
+				&lt;li&gt;The Effective Date states when the legislation will take effect.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Senate Sponsor
+			&lt;ol&gt;
+				&lt;li&gt;The senate sponsor is the senator who initially promotes the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title V - The Judicial Branch</title><link href="http://localhost:4000/Statutes/TitleV/" rel="alternate" type="text/html" title="Title V - The Judicial Branch" /><published>2019-12-19T00:00:00-05:00</published><updated>2019-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_v</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleV/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 4-3-19&lt;/p&gt;
+
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-5-the-judicial-branch&quot;&gt;Title 5 The Judicial Branch&lt;/h2&gt;
+
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 500: Judicial Composition and Authority&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 501: Judicial Rules of Procedure&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 502: Ranking Officers of the Judicial Branch&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 503: Rights of an individual Before the Court&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 504: Temporary Justices&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 505: Judicial Meetings&lt;/p&gt;
+
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;50&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;50&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+	&lt;h3&gt;Judicial Composition and Authority&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The composition and authority of the Judicial Branch shall be as contained in the SGA Constitution under Article 5, Section 3, Parts A, B, and C.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Judicial Rules of Procedure&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Judicial Branch Trial Procedures will govern the procedures for trials within the Judicial Branch.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Ranking Officers of the Judicial Branch&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The following are ranking officers of the Judicial Branch
+			&lt;ol&gt;
+				&lt;li&gt;The Chief Justice&lt;/li&gt;
+				&lt;li&gt;The Senior Justice&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Duties of the Chief Justice:
+			&lt;ol&gt;
+				&lt;li&gt;Call and Reside over all meetings&lt;/li&gt;
+				&lt;li&gt;Supervise the administration of the Judicial Branch&lt;/li&gt;
+				&lt;li&gt;Keep all records of the Judicial Branch necessary to follow Public Record Retention Laws.&lt;/li&gt;
+				&lt;li&gt;Maintain an understanding of major events occurring in SGA&lt;/li&gt;
+				&lt;li&gt;Complete additional tasks as outlined in SGA Constitution&lt;/li&gt;
+				&lt;li&gt;Appoint a Judicial Clerk and Judicial Marshal as needed.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Duties of the Senior Justice:
+			&lt;ol&gt;
+				&lt;li&gt;All the responsibilities of an Associate Justice&lt;/li&gt;
+				&lt;li&gt;Act as the Chief Justice when they are absent&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;These roles will be further described in the Judicial Handbook/ROP&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Rights of Individuals before the Court&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Supreme Court will create a file for each case heard.&lt;/li&gt;
+		&lt;li&gt;Individuals appearing before the Supreme Court will be guaranteed the following:
+			&lt;ol&gt;
+				&lt;li&gt;The right to due process.&lt;/li&gt;
+				&lt;li&gt;The right to an expedient trial.&lt;/li&gt;
+				&lt;li&gt;The right to be aware of Supreme Court Procedures.&lt;/li&gt;
+				&lt;li&gt;The right to be heard by quorum.&lt;/li&gt;
+				&lt;li&gt;The right to be heard without ridicule, interference, or unnecessary interruption.&lt;/li&gt; 
+				&lt;li&gt;The right to ask any Justice any questions concerning any procedural matter or concerning rights and privileges of the individual before the Supreme Court.&lt;/li&gt;
+				&lt;li&gt;The right to be free from slanderous remarks or unwarranted accusations during any Supreme Court proceedings.&lt;/li&gt;
+				&lt;li&gt;The right to representation of counsel by a fellow student of their choosing, or the right to self-representation.&lt;/li&gt;
+				&lt;li&gt;All parties in a trial must notify the Supreme Court who will be representing them at least twenty-four (24) hours before a trial.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Temporary Justices&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Chief Justice may appoint Temporary Justices
+			&lt;ol&gt;
+				&lt;li&gt;The Chief Justice shall assign an Associate Justice this duty if the Chief Justice is subject to recusal.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Temporary Justice qualifications
+			&lt;ol&gt;
+				&lt;li&gt;Temporary Justices can be appointed if there is a recusal or less than seven (7) current members of the Supreme Court.&lt;/li&gt;
+				&lt;li&gt;Temporary justices must meet the eligibility requirements stated in Article V. Section 3. part C. of the SGA Constitution.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;A Temporary Justice is on the Supreme Court until
+			&lt;ol&gt;
+				&lt;li&gt;The individual is nominated by the President and confirmed by the Senate to be a Supreme Court Justice.&lt;/li&gt;
+				&lt;li&gt;An individual is nominated by the President and confirmed by the Senate to the Supreme Court replacing the Temporary Justice.&lt;/li&gt;
+				&lt;li&gt;Their membership is no longer needed by the Supreme Court.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Judicial Meetings&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Chief Justice will preside over meetings&lt;/li&gt;
+		&lt;li&gt;The Chief Justice will determine the time, day and place of the Judicial Branch meetings&lt;/li&gt;
+		&lt;li&gt;Meetings will consist of all members of the Judicial Branch&lt;/li&gt;
+		&lt;li&gt;Quorum for all meetings will be met with a simple majority.&lt;/li&gt;
+		&lt;li&gt;The Judicial Branch may define specific types of meetings in their Rules of Procedure.&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry></feed>

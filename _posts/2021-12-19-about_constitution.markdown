@@ -10,5 +10,6 @@ The Florida Polytechnic University Student Constitution, enacted in February 201
 - [Title I - Introduction to SGA Statutes](/Statutes/TitleI/)
 - [Title II - Officer Procedures](/Statutes/TitleII/)
 - [Title III - The Executive Branch](/Statutes/TitleIII/)
-- Title IV - The Legislative Branch
-- Title V - The Judicial Branch
+- [Title IV - The Legislative Branch](/Statutes/TitleIV/)
+- [Title V - The Judicial Branch](/Statutes/TitleV/)
+- [Title VI - Elections](/Statutes/TitleVI/)
