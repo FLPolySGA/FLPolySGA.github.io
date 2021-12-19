@@ -1,13 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T17:50:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T18:09:16-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">Title IV - The Legislative Branch</title><link href="http://localhost:4000/Statutes/TitleIV/" rel="alternate" type="text/html" title="Title IV - The Legislative Branch" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_iv</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleIV/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 4-3-19&lt;/p&gt;
 
-&lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIII/&quot;&gt;Title III - The Executive Branch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Title IV - The Legislative Branch&lt;/li&gt;
-  &lt;li&gt;Title V - The Judicial Branch&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.</summary></entry><entry><title type="html">SGA Branches</title><link href="http://localhost:4000/Branches/" rel="alternate" type="text/html" title="SGA Branches" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/branches</id><content type="html" xml:base="http://localhost:4000/Branches/">&lt;p&gt;The Student Government Association is composed of an Executive, Legislative, and Judicial branch.&lt;/p&gt;
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-4-the-legislative-branch&quot;&gt;Title 4 The Legislative Branch&lt;/h2&gt;
+
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 400: Legislative Authority&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 401: General Requirements&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 402: Ranking Officers of the Senate&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 403: Order of Succession&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 404: Legislation of the Legislative Branch&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 405: Composition of Legislation&lt;/p&gt;
+
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;40&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;40&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+	&lt;h3&gt;Legislative Authority&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The composition and authority of the Legislative Branch shall be as contained in the SGA Constitution.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;General Requirements&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Senators shall be in compliance with the standards for being a member of the Legislative Branch as stated in the SGA Constitution and SGA Statutes.
+			&lt;ol&gt;
+				&lt;li&gt;All Senators are required to serve on at least one Standing Committee.&lt;/li&gt;
+				&lt;li&gt;Standing Committees of the Senate and voting rights of members of Standing Committees shall be outlined in the Senate Handbook.&lt;/li&gt;
+				&lt;li&gt;Senators are expected to attend all Senate Meetings and Standing Committee Meetings for which they are voting Members.
+					&lt;ol&gt;
+						&lt;li&gt;Attendance at these meetings shall be monitored by means of the Legislative Accountability Report which is further outlined within the Senate Handbook&lt;/li&gt;
+						&lt;li&gt;Additional and alternative attendance requirements may be outlined in the Student Government Senate Handbook&lt;/li&gt;
+					&lt;/ol&gt;
+				&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Ranking Officers of the Senate&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The following are ranking officers of the Senate:
+			&lt;ol&gt;
+				&lt;li&gt;The Senate President&lt;/li&gt;
+				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
+				&lt;li&gt;The Senate Audit and Budget Committee Chair&lt;/li&gt;
+				&lt;li&gt;The Senate Information and Communication Committee Chair&lt;/li&gt;
+				&lt;li&gt;The Senate Student Organization Committee Chair&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Ranking officers will take on their position at the beginning of the session and will terminate their position at the end of the session.&lt;/li&gt;
+		&lt;li&gt;The Duties of the Senate President:
+			&lt;ol&gt;
+				&lt;li&gt;Those duties enumerated in the Constitution.&lt;/li&gt;
+				&lt;li&gt;To represent the Senate before the administration.&lt;/li&gt;
+				&lt;li&gt;To prepare the agenda for all Senate General Meetings&lt;/li&gt;
+				&lt;li&gt;To oversee the day-to-day operations of the Senate.&lt;/li&gt;
+				&lt;li&gt;Those duties enumerated in the Senate Handbook&lt;/li&gt;
+				&lt;li&gt;Sign all necessary legislation approved by the Senate and notify the relevant parties&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Dutios of the Senate Pro Tempore:
+			&lt;ol&gt;
+				&lt;li&gt;To fulfill the duties of the Senate President should they become unable to perform their duties.&lt;/li&gt;
+				&lt;li&gt;To aid the Senate President in his or her duties.&lt;/li&gt;
+				&lt;li&gt;Those dutios enumerated in the Senate Handbook&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Duties of the Committee Chairs
+			&lt;ol&gt;
+				&lt;li&gt;To manage all activities within their respective Committees.&lt;/li&gt;
+				&lt;li&gt;To maintain attendance records within their respective Committees.&lt;/li&gt;
+				&lt;li&gt;Those duties outlined for Committee Chairs in the Senate Handbook.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Order of Succession&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Should the Senate President be unable to fulfill their duties; the order of succession shall be:
+			&lt;ol&gt;
+				&lt;li&gt;The Senate President Pro Tempore&lt;/li&gt;
+				&lt;li&gt;Audit and Budget Committee chair&lt;/li&gt;
+				&lt;li&gt;Student Organization Committee chair&lt;/li&gt;
+				&lt;li&gt;Information and Communication Committee Chair&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Legislation of the Legislative Branch&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Legislation approved by the Legislative Branch must be approved or vetoed by the Student Body President within fifteen (15) business days of approval. The legislation will pass by default if the President fails to act.&lt;/li&gt;
+		&lt;li&gt;Legislation will follow the classifications outlined in Article 3, Section 6, part h of the SGA Constitution.&lt;/li&gt;
+		&lt;li&gt;The Senate President shall submit all bills to the Student Body President within five (5) business days of the bill being passed by the Senate.
+			&lt;ol&gt;
+				&lt;li&gt;If the Senate President does not submit the bills within five (5) business days, the Senate President Pro Tempore will submit the bills within another five (5) business days.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;All vetoed bills that have been overridden by a Supermajority vote of the Senate will follow the above procedures outlined in 404.3.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Composition of Legislation&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;All forms of Legislation except for subsidiary budgets will contain the following:
+			&lt;ol&gt;
+				&lt;li&gt;Title and Subject&lt;/li&gt;
+				&lt;li&gt;Legislative Intent&lt;/li&gt;
+				&lt;li&gt;Enacting Clause&lt;/li&gt;
+				&lt;li&gt;Effective Date&lt;/li&gt;
+				&lt;li&gt;Senate Sponsor&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Title and Subject
+			&lt;ol&gt;
+				&lt;li&gt;The subject of each bill will be briefly expressed in its title and subject.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Legislative Intent
+			&lt;ol&gt;
+				&lt;li&gt;Legislative intent explains the purpose and intent of the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Enacting Clause
+			&lt;ol&gt;
+				&lt;li&gt;Enacting clauses state the entity that has the authority to enact the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Effective Date
+			&lt;ol&gt;
+				&lt;li&gt;The Effective Date states when the legislation will take effect.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Senate Sponsor
+			&lt;ol&gt;
+				&lt;li&gt;The senate sponsor is the senator who initially promotes the legislation.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">SGA Branches</title><link href="http://localhost:4000/Branches/" rel="alternate" type="text/html" title="SGA Branches" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/branches</id><content type="html" xml:base="http://localhost:4000/Branches/">&lt;p&gt;The Student Government Association is composed of an Executive, Legislative, and Judicial branch.&lt;/p&gt;
 
 &lt;h2 id=&quot;executive-branch&quot;&gt;Executive Branch&lt;/h2&gt;
 &lt;p&gt;The Executive Branch includes the Student Body President, Vice President, Treasurer, Secretary, and an Executive Cabinet. The Cabinet includes various Executive Committees as appointed by the Student Body President. They are the students’ voice and liaison between the students and the administration.&lt;/p&gt;
@@ -894,4 +1040,13 @@ b)	The Senators shall assume office at the first meeting following validation by
     	&lt;li&gt;After initial contact, relevant bodies within SGA may maintain communication with University Administration.&lt;/li&gt;
     &lt;/ol&gt;
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry></feed>
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+
+&lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIII/&quot;&gt;Title III - The Executive Branch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Title IV - The Legislative Branch&lt;/li&gt;
+  &lt;li&gt;Title V - The Judicial Branch&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.</summary></entry></feed>
