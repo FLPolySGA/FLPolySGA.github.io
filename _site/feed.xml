@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T17:25:15-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T17:50:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
 
 &lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Title III - The Executive Branch&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleIII/&quot;&gt;Title III - The Executive Branch&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Title IV - The Legislative Branch&lt;/li&gt;
   &lt;li&gt;Title V - The Judicial Branch&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="AboutSGA" /><summary type="html">The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.</summary></entry><entry><title type="html">SGA Branches</title><link href="http://localhost:4000/Branches/" rel="alternate" type="text/html" title="SGA Branches" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/branches</id><content type="html" xml:base="http://localhost:4000/Branches/">&lt;p&gt;The Student Government Association is composed of an Executive, Legislative, and Judicial branch.&lt;/p&gt;
@@ -732,4 +732,166 @@ b)	The Senators shall assume office at the first meeting following validation by
     	&lt;/li&gt;
     &lt;/ol&gt;
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 10/28/2019 Originally Written by: Session 4 LEB</summary></entry></feed>
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 10/28/2019 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title III - The Executive Branch</title><link href="http://localhost:4000/Statutes/TitleIII/" rel="alternate" type="text/html" title="Title III - The Executive Branch" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_iii</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleIII/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 4-3-19&lt;/p&gt;
+
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-3-the-executive-branch&quot;&gt;Title 3 The Executive Branch&lt;/h2&gt;
+
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 300: Executive Powers&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 301: Executive Branch Vacancies&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 302: Continuity&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 303: Powers of the President Elect&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 304: Transition Period&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 305: External Representation&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 306: Internal Representation and Communication&lt;/p&gt;
+
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;30&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;30&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+    &lt;h3&gt;Executive Powers&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The powers of the executive branch are granted from the Student Body Constitution.&lt;/li&gt;
+    	&lt;li&gt;The Executive Branch shall
+    		&lt;ol&gt;
+    			&lt;li&gt;Be the administrative arm of the Student Government Association.&lt;/li&gt;
+    			&lt;li&gt;Be responsible for the planning and execution of programs, projects, and services provided to the students through SGA.&lt;/li&gt;
+    			&lt;li&gt;Be responsive to student needs.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;The Executive Branhc shall consist of:
+    		&lt;ol&gt;
+    			&lt;li&gt;President&lt;/li&gt;
+    			&lt;li&gt;Vice-President&lt;/li&gt;
+    			&lt;li&gt;Treasurer&lt;/li&gt;
+    			&lt;li&gt;Chief of Staff&lt;/li&gt;
+    			&lt;li&gt;Executive Cabinet&lt;/li&gt;
+    			&lt;li&gt;Executive Staff&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;The Executive Branch
+    		&lt;ol&gt;
+    			&lt;li&gt;The President has the power to appoint and dismiss within the Executive Branch at their discretion. This does not include elected positions.&lt;/li&gt;
+    			&lt;li&gt;The President shall be responsible for all actions done within the Executive Branch with the exception being elected positions.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Administrative Authority
+    		&lt;ol&gt;
+    			&lt;li&gt;The President may organize the Executive Branch as they deem necessary in accordance with the SGA Constitution.&lt;/li&gt;
+    			&lt;li&gt;The President must adopt Executive policies and procedures within one (1) month of their first day in office.&lt;/li&gt;
+    			&lt;li&gt;Upon the creation of a new Executive Branch position the President must notify the Senate President through an executive order within seven (7) business days.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;The Executive Cabinet
+    		&lt;ol&gt;
+    			&lt;li&gt;The Executive Cabinet shall advise the President and Vice-President on matters pertaining to the coordination of the Executive Branch responsibilities.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Executive Staff
+    		&lt;ol&gt;
+    			&lt;li&gt;Executive Staff is appointed by the President and is not subject to confirmation by the Senate.&lt;/li&gt;
+    			&lt;li&gt;The Executive Staff derives its authority from the President and has no power or authority unless granted by the President or Vice-President.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Presidental Appointment and Dismissal
+    		&lt;ol&gt;
+    			&lt;li&gt;Candidate Search
+    				&lt;ol&gt;
+    					&lt;li&gt;No position requiring a Senate confirmation may be filled with out effective advertisement via University email.&lt;/li&gt;
+    					&lt;li&gt;The advertisements must be visible for a reasonable amount of time at the SGA desk or the SGA office.&lt;/li&gt;
+    					&lt;li&gt;The President shall be responsible for the advertising of all positions open for candidate search.&lt;/li&gt;
+    				&lt;/ol&gt;
+    			&lt;/li&gt;
+    			&lt;li&gt;Appointment to Executive Branch Positions
+    				&lt;ol&gt;
+    					&lt;li&gt;The President shall appoint all non-elected member(s) of the Executive Branch.&lt;/li&gt;
+    					&lt;li&gt;All appointed positions to the level of Executive Cabinet Position shall require confirmation by a simple majority vote of the Senate.&lt;/li&gt;
+    					&lt;li&gt;Any individual appointed to a Cabinet level position may serve in an interim capacity until a time in which they can be confirmed at a regularly scheduled Senate meeting.
+    						&lt;ol&gt;
+    							&lt;li&gt;No individual may serve in an interim position for longer than thirty (30) days.&lt;/li&gt;
+    						&lt;/ol&gt;
+    					&lt;/li&gt;
+    				&lt;/ol&gt;
+    			&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Executive Branch Vacancies&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;Student Body President
+    		&lt;ol&gt;
+    			&lt;li&gt;Should the Student Body President announce to the Senate President, via Executive Memo (email), a period of absence the Vice-President shall assume the duties of Student Body President until the Student Body President resumes their duties.&lt;/li&gt;
+    			&lt;li&gt;Should the Vice-President not be available the next in the line of continuity shall take the place of the Vice-President as the acting Student Body President until conditions in 300.9.1.1 are met.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Student Body Vice-President
+    		&lt;ol&gt;
+    			&lt;li&gt;Should the Student Body Vice-President announce to the Senate President and the Student Body President, via memo (email), a period of absence the Chief-Of-Staff shall assume the duties of Student Body Vice-President until the Student Body Vice-President resumes their duties.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Treasurer
+    		&lt;ol&gt;
+    			&lt;li&gt;Should the Treasurer announce to the Senate President and the Student Body President, via memo (email), a period of absence the Chief-Of-Staff shall assume the duties of Treasurer until the Treasurer resumes their duties.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;All other Executive Vacancies
+    		&lt;ol&gt;
+    			&lt;li&gt;All other Executive Vacancies shall be filled in accordance with the Executive Handbook.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Continuity&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;Should the office of Student Body President become vacant, the following continuity plan shall be enacted.
+    		&lt;ol&gt;
+    			&lt;li&gt;Student Body Vice-President shall assume the office of Student Body President.&lt;/li&gt;
+    			&lt;li&gt;Should the Student Body Vice-President not be able to assume the office of the Student Body President, then the Senate President shall assume the office of the Student Body President.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;For any other elected vacancy other than Student Body President shall be filled by the runner-up for that position pending approval of the Senate stated in Article III of the SGA Constitution.&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Powers of the President-Elect&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The President-Elect shall have the ability to designate all incoming cabinet level positions and Executive staff.&lt;/li&gt;
+    	&lt;li&gt;The President-Elect shall have the ability to dismiss any designee&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Transition Period&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The Executive transition period shall begin the day after the President-Elect is officially announced and conclude when the President-Elect takes office.&lt;/li&gt;
+    	&lt;li&gt;During the transition period the President-Elect must meet with the outgoing President to discuss turnover a minimum of four (4) times, unless extreme circumstances prohibit from completing this requirement. Extreme circumstances are defined by the Student Body President.&lt;/li&gt;
+    	&lt;li&gt;The outgoing administration shall provide the President-Elect with all available documents pertaining to the Executive Branch.&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;External Representation&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The President shall act as the Student Government Association main representative for all external communication, including but not limited to; Student Body Representation to the State and Federal Legislature, Florida Student Association, and any other governmental bodies.&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Internal Representation and Communication&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The Executive Branch shall serve as the representation and communication of SGA to University Administration. Including but not limited to; Office of the President, Office of the Provost, Board of Trustees, and the University Departments.&lt;/li&gt;
+    	&lt;li&gt;After initial contact, relevant bodies within SGA may maintain communication with University Administration.&lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 4-3-19 Originally Written by: Session 4 LEB</summary></entry></feed>
