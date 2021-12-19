@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Florida Poly Student Government page! 
   Here you can find all of our official documents 
   including statutes, meeting minutes, and more!
+domain: FLPolySGA.github.io
+url: https://FLPolySGA.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: FloridaPolySGA
