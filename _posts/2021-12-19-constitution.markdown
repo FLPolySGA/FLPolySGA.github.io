@@ -63,14 +63,14 @@ Student Government shall be divided into a Legislative, an Executive, and a Judi
 #### **<u>Section 4. Branches of government.</u>**
 Student Government shall be divided into a Legislative, an Executive, and a Judicial branch.
 
-**A. Exercise of Powers.**
-<p style="margin-left:5%">No person belonging to one (1) branch shall exercise any powers appertaining to either of the other branches unless expressly provided by the Constitution.</p>
-
-**B. Exclusionary of Powers.**
-<p style="margin-left:5%">The Senate may provide by Code of Conduct for Student Government offices considered exclusionary, but the following positions shall always be exclusionary: Student Body President, Student Body Vice President, Student Body Treasurer, Student Body Chief of Staff, Supervisor of Elections (or election committee), Heads of Cabinet or Agency Heads, and Cabinet Directors for the Executive Branch.</p>
-
-**C. Offices Explicitly Non-exclusionary.**
-<p style="margin-left:5%">Nothing in this Constitution shall be construed to prohibit any student from holding an exclusionary office and simultaneously holding as a member of the Constitution Revision Commission, a member of an independent body having only advisory powers created by Student Body Statutes, or a member of a committee or commission created by the Student Body President.</p>
+<dl>
+	<dt><b>A. Exercise of Powers.</b></dt>
+		<dd><p style="margin-left:5%">No person belonging to one (1) branch shall exercise any powers appertaining to either of the other branches unless expressly provided by the Constitution.</p></dd>
+	<dt><b>B. Exclusionary of Powers.</b></dt>
+		<dd><p style="margin-left:5%">The Senate may provide by Code of Conduct for Student Government offices considered exclusionary, but the following positions shall always be exclusionary: Student Body President, Student Body Vice President, Student Body Treasurer, Student Body Chief of Staff, Supervisor of Elections (or election committee), Heads of Cabinet or Agency Heads, and Cabinet Directors for the Executive Branch.</p></dd>
+	<dt><b>C. Offices Explicitly Non-exclusionary.</b></dt>
+		<dd><p style="margin-left:5%">Nothing in this Constitution shall be construed to prohibit any student from holding an exclusionary office and simultaneously holding as a member of the Constitution Revision Commission, a member of an independent body having only advisory powers created by Student Body Statutes, or a member of a committee or commission created by the Student Body President.</p></dd>
+</dl>
 
 ### **<center><u>Article III: THE LEGISLATURE</u></center>**
 
@@ -79,19 +79,23 @@ The legislative authority of the Student Body shall be vested in the Student Sen
 
 #### **<u>Section 2. Composition</u>**
 
-**A. Division of Representation**
-<ul style="PADDING-LEFT: 75px">
-	<li>The Senate will be composed of representatives from each of the Colleges of the University. Graduate and Undecided/Non-Degree Seeking Students shall each be considered a separate college for the purpose of composing the Senate. Seats will also be allocated for the Freshman, Sophomore, Junior, and Senior class along with a seat for on-campus and off-campus students. The total number of Senate seats will be ten (10) plus one (1) seat for every 240 students with a maximum number of thirty (30) senators. Every College will have at least one (1) representative. The apportionment of the seats will be set according to the percentages of the total number of students enrolled at each of the respective Colleges as outlined within the Constitution or Statutes.</li>
-	<li>If passed, this amendment will go into effect for the 2020 spring general election.</li>
-</ul>
-
-**B. Structure of Senate**
-<p style="margin-left:5%">There shall be a:</p>
-<ul style="PADDING-LEFT: 75px">
-	<li>Senate President, elected by The Senate to be the Speaker of the Senate.</li>
-	<li>Senate President Pro Tempore, nominated by the Senate President and approved by The Senate to act as speaker in absence of the President.</li>
-	<li>A number of officers elected or appointed as stated in the Senate Rules and Procedures as written and designed by The Senate.</li>
-</ul>
+<dl>
+	<dt><b>A. Division of Representation</b></dt>
+		<dd>
+			<ul style="PADDING-LEFT: 75px">
+			<li>The Senate will be composed of representatives from each of the Colleges of the University. Graduate and Undecided/Non-Degree Seeking Students shall each be considered a separate college for the purpose of composing the Senate. Seats will also be allocated for the Freshman, Sophomore, Junior, and Senior class along with a seat for on-campus and off-campus students. The total number of Senate seats will be ten (10) plus one (1) seat for every 240 students with a maximum number of thirty (30) senators. Every College will have at least one (1) representative. The apportionment of the seats will be set according to the percentages of the total number of students enrolled at each of the respective Colleges as outlined within the Constitution or Statutes.</li>
+			<li>If passed, this amendment will go into effect for the 2020 spring general election.</li>
+		</ul>
+	</dd>
+	<dt><b>B. Structure of Senate</b></dt>
+		<dd><p style="margin-left:5%">There shall be a:</p>
+			<ul style="PADDING-LEFT: 75px">
+				<li>Senate President, elected by The Senate to be the Speaker of the Senate.</li>
+				<li>Senate President Pro Tempore, nominated by the Senate President and approved by The Senate to act as speaker in absence of the President.</li>
+				<li>A number of officers elected or appointed as stated in the Senate Rules and Procedures as written and designed by The Senate.</li>
+			</ul>
+		</dd>
+</dl>
 
 #### **<u>Section 3. Senate Session</u>**
 The previous Senate will be dissolved once the President of the new Senate is confirmed at the first official Senate meeting after the Fall semester election, in which both the previous Senate and the new Senate are present. At such time, the new Senate session will begin.
@@ -248,42 +252,35 @@ Practice and procedure:
 </ol>
 
 #### **<u>Section 3. Judicial Board</u>**
-**A. Organization**
 
-The Judicial Board shall consist of the Chief Justice and up to six justices. The Chief Justice shall preside over the Judicial Board. Simple majority of members shall constitute a quorum. The concurrence in judgment of a simple majority members shall be necessary for a decision. The Judicial Board shall provide in its rules of practice and procedure the process for assigning qualified students to temporary duty as substitutes, where recusals for cause would prohibit the Judicial Board from convening because of the requirements of this section. To be eligible to be assigned to temporary duty, a person must meet the minimal qualifications of membership on the Judicial Board. The Chief Justice shall be responsible for selecting temporary Justices and shall assign an Associate Justice this duty if the Chief Justice is subject to recusal.
-
-**B. Jurisdiction**
-
-The Supreme Court:
-<ol type="a">
-	<li>Shall interpret any provision of the Constitution or any law that is written within:
-		<ol type="i">
-			<li>Upon any written petition of five percent (5%) of the total Student Body.</li>
-			<li>Request of the Student Body President.</li>
-		</ol>
-	</li>
-	<li>Shall, upon written petition of any member of the Student Body, and for good and fair cause shown as determined by the Chief Justice and to be consistent with the internal procedures of the supreme court, order any SGA Affiliate or any person who has attended an SGA sponsored event or activity, to appear in front of the court. This shall only occur if the student performs any act that violates this Constitution, any applicable Code of Conduct, State, or Federal Law.</li>
-	<li>Shall hear appeals from tribunals and lower courts as established by the Supreme Court.</li>
-	<li>May issue any writ necessary to the complete exercise of its jurisdiction.</li>
-	<li>Will suspend and terminate the position of any SGA Officer convicted of a Felony in an official State or Federal Court during their term in office.</li>
-	<li>Shall maintain a permanent election result file of every student body election.</li>
-</ol>
-
-**C. Subpoena Power**
-
-The Supreme Court shall have the power to issue subpoenas and subpoena duces tecum directed at any SGA Affiliate, returnable before the Supreme Court or any tribunal it designates.
-
-**D. Eligibility and Tenure**
-
-No person shall be eligible to hold the office of Chief Justice or Associate Justice of the Supreme Court unless that person has successfully completed first year writing requirements, and attained a total cumulative 2.50 grade point average. The Chief Justice and Associate Justices of the Supreme Court shall have the right to remain in office without reappointment until they are awarded a degree. 
-
-**E. Vacancy in Office**
-
-Whenever a vacancy occurs in the office of the Chief Justice or Associate Justice of the Judicial Branch, the Student Body President shall fill the vacancy by appointment, subject to a super majority confirmation vote by The Senate.
-
-**F. Clerk and Marshal**
-
-The Chief Justice may appoint a clerk and a marshal for the Supreme Court who shall hold office during the pleasure of the Chief Justice and perform such duties pertinent for to the court as the Chief Justice directs.
+<dl>
+	<dt><b>A. Organization</b></dt>
+		<dd>The Judicial Board shall consist of the Chief Justice and up to six justices. The Chief Justice shall preside over the Judicial Board. Simple majority of members shall constitute a quorum. The concurrence in judgment of a simple majority members shall be necessary for a decision. The Judicial Board shall provide in its rules of practice and procedure the process for assigning qualified students to temporary duty as substitutes, where recusals for cause would prohibit the Judicial Board from convening because of the requirements of this section. To be eligible to be assigned to temporary duty, a person must meet the minimal qualifications of membership on the Judicial Board. The Chief Justice shall be responsible for selecting temporary Justices and shall assign an Associate Justice this duty if the Chief Justice is subject to recusal.</dd>
+	<dt><b>B. Jurisdiction</b></dt>
+		<dd>The Supreme Court:
+			<ol type="a">
+				<li>Shall interpret any provision of the Constitution or any law that is written within:
+					<ol type="i">
+						<li>Upon any written petition of five percent (5%) of the total Student Body.</li>
+						<li>Request of the Student Body President.</li>
+					</ol>
+				</li>
+				<li>Shall, upon written petition of any member of the Student Body, and for good and fair cause shown as determined by the Chief Justice and to be consistent with the internal procedures of the supreme court, order any SGA Affiliate or any person who has attended an SGA sponsored event or activity, to appear in front of the court. This shall only occur if the student performs any act that violates this Constitution, any applicable Code of Conduct, State, or Federal Law.</li>
+				<li>Shall hear appeals from tribunals and lower courts as established by the Supreme Court.</li>
+				<li>May issue any writ necessary to the complete exercise of its jurisdiction.</li>
+				<li>Will suspend and terminate the position of any SGA Officer convicted of a Felony in an official State or Federal Court during their term in office.</li>
+				<li>Shall maintain a permanent election result file of every student body election.</li>
+			</ol>
+		</dd>
+	<dt><b>C. Subpoena Power</b></dt>
+		<dd>The Supreme Court shall have the power to issue subpoenas and subpoena duces tecum directed at any SGA Affiliate, returnable before the Supreme Court or any tribunal it designates.</dd>
+	<dt><b>D. Eligibility and Tenure</b></dt>
+		<dd>No person shall be eligible to hold the office of Chief Justice or Associate Justice of the Supreme Court unless that person has successfully completed first year writing requirements, and attained a total cumulative 2.50 grade point average. The Chief Justice and Associate Justices of the Supreme Court shall have the right to remain in office without reappointment until they are awarded a degree.</dd>
+	<dt><b>E. Vacancy in Office</b></dt>
+		<dd>Whenever a vacancy occurs in the office of the Chief Justice or Associate Justice of the Judicial Branch, the Student Body President shall fill the vacancy by appointment, subject to a super majority confirmation vote by The Senate.</dd>
+	<dt><b>F. Clerk and Marshal</b></dt>
+		<dd>The Chief Justice may appoint a clerk and a marshal for the Supreme Court who shall hold office during the pleasure of the Chief Justice and perform such duties pertinent for to the court as the Chief Justice directs.</dd>
+</dl>
 
 ### **<center><u>Article VI: ELECTIONS</u></center>**
 
