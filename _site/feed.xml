@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T16:56:06-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T17:25:15-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
 
 &lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/Statutes/TitleI/&quot;&gt;Title I - Introduction to SGA Statutes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Title II - Officer Procedures&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Statutes/TitleII/&quot;&gt;Title II - Officer Procedures&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Title III - The Executive Branch&lt;/li&gt;
   &lt;li&gt;Title IV - The Legislative Branch&lt;/li&gt;
   &lt;li&gt;Title V - The Judicial Branch&lt;/li&gt;
@@ -469,7 +469,7 @@ b)	The Senators shall assume office at the first meeting following validation by
 	#legal-list ol {
 		counter-reset: clause;
 		list-style: none outside none;
-		text-indent: -2em;
+		text-indent: -1em;
 	}
 	#legal-list ol li { counter-increment: clause; }
 	#legal-list ol li:before {
@@ -479,8 +479,6 @@ b)	The Senators shall assume office at the first meeting following validation by
 &lt;/style&gt;
 
 &lt;html&gt;
-  &lt;header&gt;
-  &lt;/header&gt;
   &lt;body id=&quot;legal-list&quot;&gt;
     &lt;h3&gt;System of Student Government Association (SGA) Statutes&lt;/h3&gt;
     &lt;ol&gt;
@@ -575,4 +573,163 @@ b)	The Senators shall assume office at the first meeting following validation by
     	&lt;li&gt;&lt;b&gt;&lt;u&gt;Exclusionary Position:&lt;/u&gt;&lt;/b&gt; An exclusionary position is one that must be held exclusive from all other exclusionary positions within a student government.&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/body&gt; 
-&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 6-28-19 Originally Written by: Session 4 LEB</summary></entry></feed>
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 6-28-19 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title II - Officer Procedures</title><link href="http://localhost:4000/Statutes/TitleII/" rel="alternate" type="text/html" title="Title II - Officer Procedures" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_ii</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleII/">&lt;blockquote&gt;
+  &lt;p&gt;Last Revised: 10/28/2019&lt;/p&gt;
+
+  &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-2-officer-procedures&quot;&gt;Title 2 Officer Procedures&lt;/h2&gt;
+
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 200: Membership Eligibility&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 201: Hiring&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 202: Code of Ethics&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 203: Transparency&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 204: End of Term Procedures&lt;/p&gt;
+&lt;p style=&quot;margin-left:5%&quot;&gt;Chapter 205:&lt;/p&gt;
+
+&lt;style&gt;
+	#legal-list { 
+		counter-reset: section; 
+		counter-increment: section -1;
+	}
+	#legal-list h3:before { 
+		content: &quot;20&quot; counter(section) &quot;. &quot;;
+		counter-increment: section;
+		margin: 0 0.5em 0 0;
+	}
+	#legal-list ol {
+		counter-reset: clause;
+		list-style: none outside none;
+		text-indent: -1em;
+	}
+	#legal-list ol li { counter-increment: clause; }
+	#legal-list ol li:before {
+		content: &quot;20&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		margin: 0 0.5em 0 0;
+	}
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+    &lt;h3&gt;Membership Eligibility&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;Objective
+    		&lt;ol&gt;
+    			&lt;li&gt;This chapter serves to outline requirements that make members eligible to serve in Student Government positions&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Requirements
+    		&lt;ol&gt;
+    			&lt;li&gt;All members of Student Government must meet the following qualifications
+    				&lt;ol&gt;
+    					&lt;li&gt;Be a full-time student attending Florida Polytechnic University&lt;/li&gt;
+    					&lt;li&gt;Maintain grade point average requirements as specified in the constitution&lt;/li&gt;
+    					&lt;li&gt;Conform to requirements made by Student Development&lt;/li&gt;
+    				&lt;/ol&gt;
+    			&lt;/li&gt;
+    			&lt;li&gt;Other branches may specify additional requirements for appointed and non-elected positions as stated in Title III, Title IV, or Title V for each respective branch.&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Exclusionary Positions
+    		&lt;ol&gt;
+    			&lt;li&gt;All elected positions in the executive branch, legislative branch, and all appointed positions by the student body president are exclusionary positions&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Hiring&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;Objective
+    		&lt;ol&gt;
+    			&lt;li&gt;This section is meant to create procedures for hiring SGA members that are not elected or members of the judicial branch, such as, chief justice or associate justice, to and receive financial compensation for their work&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Nominating Officers (NO)
+    		&lt;ol&gt;
+    			&lt;li&gt;A nominating officer is the officer that is seeking out a candidate to fill a position&lt;/li&gt;
+    			&lt;li&gt;The student body president shall have the power to nominate students under this chapter&lt;/li&gt;
+    			&lt;li&gt;The elections chair shall have the power to nominate students to positions within the Elections Committee&lt;/li&gt;
+    			&lt;li&gt;The senate president shall have the power to nominate student aids in accordance with positions outlined in the Senate Handbook&lt;/li&gt;
+    			&lt;li&gt;The chief justice shall have the power to nominate student aids in accordance with positions outlined in the Judicial Handbook&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Advertising
+    		&lt;ol&gt;
+    			&lt;li&gt;An open position’s NO shall determine when to start advertising for that position&lt;/li&gt;
+    			&lt;li&gt;The NO shall prepare a job application, job description, and job qualifications&lt;/li&gt;
+    			&lt;li&gt;The open position shall be advertised for, at minimum, five (5) days at the front of the SGA office&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Interviews
+    		&lt;ol&gt;
+    			&lt;li&gt;The judicial branch will be responsible for reviewing the applications for the job advertised&lt;/li&gt;
+    			&lt;li&gt;The judicial branch will interview, at minimum, the top three (3) candidates for the job, if there are over three (3) applicants&lt;/li&gt;
+    			&lt;li&gt;The judicial branch will recommend an applicant to the NO based on the qualifications of the candidate as set forth by the position job description
+    				&lt;ol&gt;
+    					&lt;li&gt;If the position in question resides in the Judicial Branch, the executive branch will follow the actions set forth in 201.4 as the interviewing body&lt;/li&gt;
+    				&lt;/ol&gt;
+    			&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Conformation
+    		&lt;ol&gt;
+    			&lt;li&gt;The NO will send a final nomination along with the nominee’s application paperwork to the legislative branch&lt;/li&gt;
+    			&lt;li&gt;All nominations are subject to confirmation by the Senate&lt;/li&gt;
+    			&lt;li&gt;The Senate shall confirm or reject applicable nominees within twenty (20) business days of their nomination or the position is confirmed by default&lt;/li&gt;
+    			&lt;li&gt;If rejected, the NO may appeal the rejection to the Senate with a supermajority vote&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Remuneration
+    		&lt;ol&gt;
+    			&lt;li&gt;The following positions are required to be paid in accordance with Title VIII
+    				&lt;ol&gt;
+    					&lt;li&gt;SGA President&lt;/li&gt;
+    					&lt;li&gt;SGA Vice President&lt;/li&gt;
+    					&lt;li&gt;SGA Treasurer&lt;/li&gt;
+    					&lt;li&gt;SGA Chief of Staff&lt;/li&gt;
+    					&lt;li&gt;Senate President&lt;/li&gt;
+    					&lt;li&gt;Senate Pro Tempore&lt;/li&gt;
+    					&lt;li&gt;Chief Justice&lt;/li&gt;
+    				&lt;/ol&gt;
+    			&lt;/li&gt;
+    			&lt;li&gt;Other positions may also be paid through allocation in the SGA budget&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Code of Ethics&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;Objective
+    		&lt;ol&gt;
+    			&lt;li&gt;This Code of Ethics is made to ensure that SGA and its members act in an impartial manner and to protect this SGA from unethical practices&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Standards of Conduct
+    		&lt;ol&gt;
+    			&lt;li&gt;Conflicts of interest: no SGA official shall act on a matter that would benefit their own personal interests instead of, or over, SGA interests&lt;/li&gt;
+    			&lt;li&gt;No SGA affiliate will advise anyone to violate the SGA constitution or SGA statutes&lt;/li&gt;
+    			&lt;li&gt;No SGA affiliate will attempt to cover up a violation of the SGA constitution or SGA statutes&lt;/li&gt;
+    			&lt;li&gt;No individual in SGA and no activity sponsored by SGA will discriminate on the basis of gender identity or expression, race, ethnicity, creed, color, religion, sex, age, sexual orientation, national origin, marital status, parental status, disability, and any combination thereof&lt;/li&gt;
+    			&lt;li&gt;SGA affiliates will act in a manner as to not cause harm intentionally to others&lt;/li&gt;
+    			&lt;li&gt;SGA affiliates shall report any unethical practices they see within SGA&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;Transparency&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;The Florida Polytechnic University SGA shall follow all Florida Sunshine Laws&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;h3&gt;End of Term Procedures&lt;/h3&gt;
+    &lt;ol&gt;
+    	&lt;li&gt;End of Term
+    		&lt;ol&gt;
+    			&lt;li&gt;Outgoing SGA officers shall be asked to conduct an exit interview with their replacement (if there is one) and the leader of the branch of which they were a member. In the event that the outgoing officer is the leader of the branch, the officer will just meet with their replacement&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    	&lt;li&gt;Vacancy of Office
+    		&lt;ol&gt;
+    			&lt;li&gt;All officers vacating their position will be asked to write an exit interview and complete any requirements written in their branch’s statutes&lt;/li&gt;
+    		&lt;/ol&gt;
+    	&lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 10/28/2019 Originally Written by: Session 4 LEB</summary></entry></feed>

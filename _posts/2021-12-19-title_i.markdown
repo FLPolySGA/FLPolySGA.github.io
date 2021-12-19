@@ -31,7 +31,7 @@ toc: true
 	#legal-list ol {
 		counter-reset: clause;
 		list-style: none outside none;
-		text-indent: -2em;
+		text-indent: -1em;
 	}
 	#legal-list ol li { counter-increment: clause; }
 	#legal-list ol li:before {
@@ -41,8 +41,6 @@ toc: true
 </style>
 
 <html>
-  <header>
-  </header>
   <body id="legal-list">
     <h3>System of Student Government Association (SGA) Statutes</h3>
     <ol>
