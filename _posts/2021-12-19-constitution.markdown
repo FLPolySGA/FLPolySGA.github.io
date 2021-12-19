@@ -234,3 +234,54 @@ The Student Body Secretary shall:
 	<li>Communicate regularly with Senate leadership through appropriate methods such as attending Senate leadership meetings.</li>
 	<li>Exercise all other powers and duties provided by the Constitution.</li>
 </ol>
+
+### **<center><u>Article V: Judicial Branch</u></center>**
+
+#### **<u>Section 1. Judicial Powers</u>**
+All judicial power of the Student Body shall be vested in the Judicial Branch, and such other tribunals as are established by law.
+
+#### **<u>Section 2. Administration</u>**
+Practice and procedure:
+<ol type="a">
+	<li>The Chief Justice of the Supreme Court shall be the chief administrative officer of the judicial system.</li>
+	<li>The Judicial Branch shall adopt its own internal rules of practice and procedure for itself.</li>
+</ol>
+
+#### **<u>Section 3. Judicial Board</u>**
+**A. Organization**
+
+The Judicial Board shall consist of the Chief Justice and up to six justices. The Chief Justice shall preside over the Judicial Board. Simple majority of members shall constitute a quorum. The concurrence in judgment of a simple majority members shall be necessary for a decision. The Judicial Board shall provide in its rules of practice and procedure the process for assigning qualified students to temporary duty as substitutes, where recusals for cause would prohibit the Judicial Board from convening because of the requirements of this section. To be eligible to be assigned to temporary duty, a person must meet the minimal qualifications of membership on the Judicial Board. The Chief Justice shall be responsible for selecting temporary Justices and shall assign an Associate Justice this duty if the Chief Justice is subject to recusal.
+
+**B. Jurisdiction**
+
+The Supreme Court:
+<ol type="a">
+	<li>Shall interpret any provision of the Constitution or any law that is written within:
+		<ol type="i">
+			<li>Upon any written petition of five percent (5%) of the total Student Body.</li>
+			<li>Request of the Student Body President.</li>
+		</ol>
+	</li>
+	<li>Shall, upon written petition of any member of the Student Body, and for good and fair cause shown as determined by the Chief Justice and to be consistent with the internal procedures of the supreme court, order any SGA Affiliate or any person who has attended an SGA sponsored event or activity, to appear in front of the court. This shall only occur if the student performs any act that violates this Constitution, any applicable Code of Conduct, State, or Federal Law.</li>
+	<li>Shall hear appeals from tribunals and lower courts as established by the Supreme Court.</li>
+	<li>May issue any writ necessary to the complete exercise of its jurisdiction.</li>
+	<li>Will suspend and terminate the position of any SGA Officer convicted of a Felony in an official State or Federal Court during their term in office.</li>
+	<li>Shall maintain a permanent election result file of every student body election.</li>
+</ol>
+
+**C. Subpoena Power**
+
+The Supreme Court shall have the power to issue subpoenas and subpoena duces tecum directed at any SGA Affiliate, returnable before the Supreme Court or any tribunal it designates.
+
+**D. Eligibility and Tenure**
+
+No person shall be eligible to hold the office of Chief Justice or Associate Justice of the Supreme Court unless that person has successfully completed first year writing requirements, and attained a total cumulative 2.50 grade point average. The Chief Justice and Associate Justices of the Supreme Court shall have the right to remain in office without reappointment until they are awarded a degree. 
+
+**E. Vacancy in Office**
+
+Whenever a vacancy occurs in the office of the Chief Justice or Associate Justice of the Judicial Branch, the Student Body President shall fill the vacancy by appointment, subject to a super majority confirmation vote by The Senate.
+
+**F. Clerk and Marshal**
+
+The Chief Justice may appoint a clerk and a marshal for the Supreme Court who shall hold office during the pleasure of the Chief Justice and perform such duties pertinent for to the court as the Chief Justice directs.
+

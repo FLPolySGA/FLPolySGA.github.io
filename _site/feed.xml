@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T14:18:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T14:49:03-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">SGA Constitution</title><link href="http://localhost:4000/AboutConstitution/" rel="alternate" type="text/html" title="SGA Constitution" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/about_constitution</id><content type="html" xml:base="http://localhost:4000/AboutConstitution/">&lt;p&gt;The Florida Polytechnic University Student Constitution, enacted in February 2015, is a dynamic document that establishes the Student Government Association, its mission, powers, and duties. With the signing of the Constitution, the SGA is formally operated by the students and for the students, a highly visible testament to democracy at the university level.&lt;/p&gt;
 
 &lt;h2 id=&quot;statutes&quot;&gt;Statutes&lt;/h2&gt;
 &lt;ul&gt;
@@ -252,7 +252,57 @@ We, the Student Body of the Florida Polytechnic University:&lt;/p&gt;
 	&lt;li&gt;Appoint aides or other officials not provided for by the Constitution, if deemed necessary.&lt;/li&gt;
 	&lt;li&gt;Communicate regularly with Senate leadership through appropriate methods such as attending Senate leadership meetings.&lt;/li&gt;
 	&lt;li&gt;Exercise all other powers and duties provided by the Constitution.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="Constitution" /><summary type="html"></summary></entry><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;article-v-judicial-branch&quot;&gt;&lt;strong&gt;&lt;center&gt;&lt;u&gt;Article V: Judicial Branch&lt;/u&gt;&lt;/center&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;section-1-judicial-powers&quot;&gt;&lt;strong&gt;&lt;u&gt;Section 1. Judicial Powers&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;All judicial power of the Student Body shall be vested in the Judicial Branch, and such other tribunals as are established by law.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2-administration&quot;&gt;&lt;strong&gt;&lt;u&gt;Section 2. Administration&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Practice and procedure:&lt;/p&gt;
+&lt;ol type=&quot;a&quot;&gt;
+	&lt;li&gt;The Chief Justice of the Supreme Court shall be the chief administrative officer of the judicial system.&lt;/li&gt;
+	&lt;li&gt;The Judicial Branch shall adopt its own internal rules of practice and procedure for itself.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;section-3-judicial-board&quot;&gt;&lt;strong&gt;&lt;u&gt;Section 3. Judicial Board&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;A. Organization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Judicial Board shall consist of the Chief Justice and up to six justices. The Chief Justice shall preside over the Judicial Board. Simple majority of members shall constitute a quorum. The concurrence in judgment of a simple majority members shall be necessary for a decision. The Judicial Board shall provide in its rules of practice and procedure the process for assigning qualified students to temporary duty as substitutes, where recusals for cause would prohibit the Judicial Board from convening because of the requirements of this section. To be eligible to be assigned to temporary duty, a person must meet the minimal qualifications of membership on the Judicial Board. The Chief Justice shall be responsible for selecting temporary Justices and shall assign an Associate Justice this duty if the Chief Justice is subject to recusal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B. Jurisdiction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Supreme Court:&lt;/p&gt;
+&lt;ol type=&quot;a&quot;&gt;
+	&lt;li&gt;Shall interpret any provision of the Constitution or any law that is written within:
+		&lt;ol type=&quot;i&quot;&gt;
+			&lt;li&gt;Upon any written petition of five percent (5%) of the total Student Body.&lt;/li&gt;
+			&lt;li&gt;Request of the Student Body President.&lt;/li&gt;
+		&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Shall, upon written petition of any member of the Student Body, and for good and fair cause shown as determined by the Chief Justice and to be consistent with the internal procedures of the supreme court, order any SGA Affiliate or any person who has attended an SGA sponsored event or activity, to appear in front of the court. This shall only occur if the student performs any act that violates this Constitution, any applicable Code of Conduct, State, or Federal Law.&lt;/li&gt;
+	&lt;li&gt;Shall hear appeals from tribunals and lower courts as established by the Supreme Court.&lt;/li&gt;
+	&lt;li&gt;May issue any writ necessary to the complete exercise of its jurisdiction.&lt;/li&gt;
+	&lt;li&gt;Will suspend and terminate the position of any SGA Officer convicted of a Felony in an official State or Federal Court during their term in office.&lt;/li&gt;
+	&lt;li&gt;Shall maintain a permanent election result file of every student body election.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;C. Subpoena Power&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Supreme Court shall have the power to issue subpoenas and subpoena duces tecum directed at any SGA Affiliate, returnable before the Supreme Court or any tribunal it designates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D. Eligibility and Tenure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No person shall be eligible to hold the office of Chief Justice or Associate Justice of the Supreme Court unless that person has successfully completed first year writing requirements, and attained a total cumulative 2.50 grade point average. The Chief Justice and Associate Justices of the Supreme Court shall have the right to remain in office without reappointment until they are awarded a degree.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E. Vacancy in Office&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Whenever a vacancy occurs in the office of the Chief Justice or Associate Justice of the Judicial Branch, the Student Body President shall fill the vacancy by appointment, subject to a super majority confirmation vote by The Senate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F. Clerk and Marshal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chief Justice may appoint a clerk and a marshal for the Supreme Court who shall hold office during the pleasure of the Chief Justice and perform such duties pertinent for to the court as the Chief Justice directs.&lt;/p&gt;</content><author><name></name></author><category term="Constitution" /><summary type="html"></summary></entry><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
 
 &lt;h2 id=&quot;audit-and-budget-committee&quot;&gt;Audit and Budget Committee&lt;/h2&gt;
 &lt;p&gt;The Audit and Budget Committee (ABC) deals with Student Government’s funding. A major role of the ABC is to help Registered Student Organizations (RSO) receive funding by submitting a budget proposal and going through revisions which will then be passed on to Senate to see if there are any more revisions needed. The ABC is committed to helping students and RSOs receive funding through certain line items in the SGA Budget.&lt;/p&gt;
