@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Florida Polytechnic University Senate Meeting Minutes (May 19, 2021)"
+title: "Florida Polytechnic University Senate Meeting Minutes (May 20, 2021)"
 permalink: /Legislative/Senate/Session8/20210520_Minutes/
 categories: Session8
 ---
@@ -16,10 +16,10 @@ categories: Session8
 | Member | Meeting Start | Meeting End |
 |--------|---|---|
 | Melia Rodriguez **(Senate President)** 	| P 		| P |
-| Benji Dinal (Senate Pro Tempore) 			| P 		| P |
-| Graham Gilbert (ABC Chair) 				| P 		| P |
-| Ezekiel Huynh (SOC Chair)					| P 		| P |
-| Breanne Menikheim (ICC Chair)				| A 		| A |
+| Benji Dinal **(Senate Pro Tempore)** 		| P 		| P |
+| Graham Gilbert **(ABC Chair)** 			| P 		| P |
+| Ezekiel Huynh **(SOC Chair)**				| P 		| P |
+| Breanne Menikheim **(ICC Chair)**			| A 		| A |
 | Catherine Abraham							| P 		| E (6:55) |
 | Alexander Gage 							| P 		| E (6:54) |
 | Jake Karas 								| P 		| P |

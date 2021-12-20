@@ -40,6 +40,7 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-toc
+gems: ['jekyll-lunr-js-search']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
