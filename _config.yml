@@ -35,7 +35,7 @@ github_username:  FLPolySGA
 theme: minima
 header_pages:
   - topbar/executive.markdown
-  - topbar/legislative.markdown
+  - topbar/senate.markdown
   - topbar/judicial.markdown
 plugins:
   - jekyll-feed
