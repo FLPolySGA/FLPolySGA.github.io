@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Florida Polytechnic University Senate Meeting Agenda (April 22, 2021)"
-permalink: /Legislative/Senate/Session8/20210422_Agenda
+permalink: /Legislative/Senate/Session8/20210422_Agenda/
 categories: Session8
 ---
 

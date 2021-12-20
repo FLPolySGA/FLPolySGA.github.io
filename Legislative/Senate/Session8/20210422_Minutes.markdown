@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Florida Polytechnic University Senate Meeting Minutes (April 22, 2021)"
-permalink: /Legislative/Senate/Session8/20210422_Minutes
+permalink: /Legislative/Senate/Session8/20210422_Minutes/
 categories: Session8
 ---
 
