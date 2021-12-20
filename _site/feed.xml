@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T18:30:25-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-19T19:02:03-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Florida Poly Student Government</title><subtitle>Welcome to the Florida Poly Student Government page!  Here you can find all of our official documents  including statutes, meeting minutes, and more!</subtitle><entry><title type="html">Legislative Committees</title><link href="http://localhost:4000/LegislativeCommittees/" rel="alternate" type="text/html" title="Legislative Committees" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/legislative_committees</id><content type="html" xml:base="http://localhost:4000/LegislativeCommittees/">&lt;p&gt;Florida Poly’s Student Government Association currently has four legistaltive committees.&lt;/p&gt;
 
 &lt;h2 id=&quot;legislative-executive-board&quot;&gt;Legislative Executive Board&lt;/h2&gt;
 &lt;p&gt;The Legislative Executive Board (LEB) deals with overseeing general operations of the Senate and creating policy. A major role of the LEB is to conduct Senator accountability reports, discuss weekly committee updates, and ensure that the Senate is operating effectively. The LEB is comprised of five voting members: Senate President, Senate President Pro Tempore, Audit and Budget Committee Chair, Student Organizations Committee Chair, and Information and Communications Committee Chair.&lt;/p&gt;
@@ -468,7 +468,7 @@ b)	The Senators shall assume office at the first meeting following validation by
 		counter-increment: section -1;
 	}
 	#legal-list h3:before { 
-		content: &quot;50&quot; counter(section) &quot;. &quot;;
+		content: &quot;60&quot; counter(section) &quot;. &quot;;
 		counter-increment: section;
 		margin: 0 0.5em 0 0;
 	}
@@ -479,10 +479,184 @@ b)	The Senators shall assume office at the first meeting following validation by
 	}
 	#legal-list ol li { counter-increment: clause; }
 	#legal-list ol li:before {
-		content: &quot;50&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
+		content: &quot;60&quot; counter(section) &quot;.&quot; counters(clause, &quot;.&quot;) &quot;. &quot;;
 		margin: 0 0.5em 0 0;
 	}
-&lt;/style&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 04.08.20 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title I - Introduction to SGA Statutes</title><link href="http://localhost:4000/Statutes/TitleI/" rel="alternate" type="text/html" title="Title I - Introduction to SGA Statutes" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_i</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleI/">&lt;blockquote&gt;
+&lt;/style&gt;
+
+&lt;html&gt;
+&lt;body id=&quot;legal-list&quot;&gt;
+	&lt;h3&gt;Elections Code of Ethics&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Voters will not have their opinions influenced while they are voting&lt;/li&gt;
+		&lt;li&gt;No person is allowed to defame written or verbal campaign material&lt;/li&gt;
+		&lt;li&gt;Candidates are not allowed to falsify information&lt;/li&gt;
+		&lt;li&gt;No candidate will commit bribery, extortion, blackmail, slander, or libel during their campaigning.&lt;/li&gt;
+		&lt;li&gt;No A&amp;amp;S funded material will be used to campaign.&lt;/li&gt;
+		&lt;li&gt;Candidates may not commit any act of violence against any member of a campaign &lt;/li&gt;
+		&lt;li&gt;No candidate may withhold financial records or changes to the campaign budget  &lt;/li&gt;
+		&lt;li&gt;No candidate will condone or authorize the destruction of another campaign’s materials&lt;/li&gt;
+		&lt;li&gt;No one will attempt to cast more than one vote or tamper with voting devices or software.&lt;/li&gt;
+		&lt;li&gt;No candidate will take advantage of the official capacity of their position (if an employee of the University) for their own personal campaign&lt;/li&gt;
+		&lt;li&gt;Candidates may not campaign in an area that causes discomfort to the public, student body, faculty, or staff&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Elections Committee&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Election Committee (EC) will be an unbiased party loosely attached to SGA with the purpose of creating and running a fair election.&lt;/li&gt;
+		&lt;li&gt;The Election Committee will keep a Rules of Operation to further define and lay out procedure for content from Title VI of SGA Statutes.&lt;/li&gt;
+		&lt;li&gt;Revisions to the Rules of Operation are subject to approval by a majority of the Senate.&lt;/li&gt;
+		&lt;li&gt;The Elections Committee will consist of an Elections Chair that has the following responsibilities:
+			&lt;ol&gt;
+				&lt;li&gt;Validate candidates&lt;/li&gt;
+				&lt;li&gt;Set deadlines for candidates not outlined in the governing documents. &lt;/li&gt;
+				&lt;li&gt;Inform candidates of the election rules and regulations through a Meeting of the Candidates. &lt;/li&gt;
+				&lt;li&gt;Announce locations and operating hours of all official polling stations at least five (5) calendar days prior to any election.&lt;/li&gt;
+				&lt;li&gt;Announce the modification of an election due to the university closing or problems with the voting system.&lt;/li&gt;
+				&lt;li&gt;Publicly verify and approve the results of the election&lt;/li&gt;
+				&lt;li&gt;Announce the results of the General Election and/or Run-Off Election &lt;/li&gt;
+				&lt;li&gt;Propose amendments to the Election Committee Rules of Procedures when seen fit&lt;/li&gt;
+				&lt;li&gt;Update the Senate about Elections upon request&lt;/li&gt;
+				&lt;li&gt;Appoint/remove persons to/from the EC. &lt;/li&gt;
+				&lt;li&gt;Oversee violations brought to the Elections Committee&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;A list of succession will be listed in the Elections Committee Rules of Operation.&lt;/li&gt;
+		&lt;li&gt;Members of the Election Committee are not allowed to run for office or currently hold office in SGA&lt;/li&gt;
+		&lt;li&gt;The Election Committee must have a minimum of 4 voting members including the Elections Chair who will have a vote in the event of a tie&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Candidacy&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Candidates must agree to abide by all rules, regulations, and procedures found within Title 6 of the statutes and within the Elections Committee Rules of Operation&lt;/li&gt;
+		&lt;li&gt;Candidates must submit an application package to the Elections Committee by the deadline as outlined in the Elections Committee Rules of Operation.&lt;/li&gt;
+		&lt;li&gt;The application package will contain the following:&lt;/li&gt;
+		&lt;li&gt;Position the candidate is running for&lt;/li&gt;
+		&lt;li&gt;Declaration of Intent&lt;/li&gt;
+		&lt;li&gt;Other material deemed relevant to the election by the EC&lt;/li&gt;
+		&lt;li&gt;The Elections Committee will verify that all candidates meet the minimum qualifications for their position as defined in the SGA Constitution, Statutes, and other governing documents&lt;/li&gt;
+		&lt;li&gt;Candidates may withdraw from the election by submitting a withdrawal form to the EC, at no penalty to them. Candidates that withdraw from the election may not reapply to the same election from which they have withdrawn&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Campaigning&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Campaign Period shall begin two (2) weeks prior to voting and will end on the last day of voting.&lt;/li&gt;
+		&lt;li&gt;Students may not actively or passively campaign within 50 yards (150 feet) in any direction of an Official Polling location forty-eight (48) hours prior to their election.&lt;/li&gt;
+		&lt;li&gt;Candidates are not allowed to use campaigning material not approved by the Election Committee&lt;/li&gt;
+		&lt;li&gt;Candidates running for the executive branch may endorse other candidates running for positions of the Executive Branch.&lt;/li&gt;
+		&lt;li&gt;Candidates running for the Executive Branch may not endorse members of the Legislative Branch.&lt;/li&gt;
+		&lt;li&gt;Candidates running for the legislative branch may not endorse other candidates. &lt;/li&gt;
+		&lt;li&gt;Campaign spending over $200 is not permitted. All donations must be reported to the Elections Committee and must be reported publicly.&lt;/li&gt;
+		&lt;li&gt;Candidates may have campaign staff. This staff must also abide by the Election Code of Ethics. Campaign staff will not be paid.&lt;/li&gt;
+		&lt;li&gt;Restricted Location of advertisements may be specified in the Elections Committee Rules of Operation.&lt;/li&gt;
+		&lt;li&gt;Candidates may campaign in locations including but not limited to
+			&lt;ol&gt;
+				&lt;li&gt;Student spaces&lt;/li&gt;
+				&lt;li&gt;Classes with permission of the professor&lt;/li&gt;
+				&lt;li&gt;Town halls&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;Candidates campaigning at an RSO must abide by the following stipulations:
+			&lt;ol&gt;
+				&lt;li&gt;The RSO e-Board has given permission to campaign at a meeting via a majority vote of the e-Board. &lt;/li&gt;
+				&lt;li&gt;Notification of approval must be sent to the Elections Committee at least 72 hours prior to the meeting. &lt;/li&gt;
+				&lt;li&gt;Notification must also include the positions being campaigned for.&lt;/li&gt;
+				&lt;li&gt;All candidates for positions accepted must have at least 48-hours&apos; notice from the Election Committee that the meeting is taking place and have opportunity to campaign in the same meeting.&lt;/li&gt;
+				&lt;li&gt;The RSO e-Board does not endorse any specific candidate (I.e. through social media, emails, etc.)&lt;/li&gt;
+				&lt;li&gt;One member of the Elections Committee (or their designated representative) should be present at the meeting for the purpose of ensuring that every candidate is afforded the same opportunity.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Voting&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;All Florida Poly students have the right to vote in SGA elections.  &lt;/li&gt;
+		&lt;li&gt;Changes to students’ voting status for the purpose of college selection shall only be considered if the change took place at least thirty (30) calendar days before voting opens.&lt;/li&gt;
+		&lt;li&gt;Write-in candidates may occur in the fall and spring election for positions that go unfilled. All write-ins shall be subject to the Elections Code of Ethics.&lt;/li&gt;
+		&lt;li&gt;The Elections Committee must verify that winning Write-in candidates did not campaign actively before the election and that winning Write-in candidates fulfill all requirements for the position they were written-in for.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Elections Results&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Elections Committee will present the results of elections to the next scheduled Senate meeting to be verified by the Senate with a majority vote.&lt;/li&gt;
+		&lt;li&gt;Upon verification, the Elections Committee will send out the results via email to the student body no more than 5 business days after they are verified. If they are not sent out within 5 business days, the Senate will send out the results.&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Student Government Association Orientation&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;All elected candidates will attend an orientation before taking office
+			&lt;ol&gt;
+				&lt;li&gt;The orientation will take place after the spring and fall elections&lt;/li&gt;
+				&lt;li&gt;If a candidate is unable to attend, the organizer of the orientation shall give the elected candidate all required information&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Apportionment&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;The Senate shall reapportion itself once per year at least six (6) weeks before the date of the spring election to be effective for the spring academic term and subsequent fall academic term&lt;/li&gt;
+		&lt;li&gt;The Office of Institutional Research estimated student body population for the next academic year will be used for reapportionment&lt;/li&gt;
+		&lt;li&gt;If the estimated student body is not available at the time of reapportionment, the current student body population will be used&lt;/li&gt;
+		&lt;li&gt;The estimated or current total student body population will be rounded to the nearest 240 students for the purpose of allocating the total number of Senate seats&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Voting Method&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;For the officer positions of Student Body President, Student Body Vice President, Student Body Treasurer, Student Body Chief of Staff, and all single-seat Senate races, the ballots shall be counted by the method of ranked choice voting if there are more than two (2) candidates. First-Past-The-Post voting “majority vote” will be used in that scenario&lt;/li&gt;
+		&lt;li&gt;Ranked Choice Voting counting procedure
+			&lt;ol&gt;
+				&lt;li&gt;The initial round of counting shall be a count of the first choices marked on each ballot. If any candidate receives a majority of the first choices, that candidate shall be declared the winner&lt;/li&gt;
+				&lt;li&gt;If no candidate receives a majority of first choices, there shall be a second round of counting.  The last-place candidate shall be eliminated, and all the continuing ballots shall be recounted.  Each continuing ballot shall be counted as one vote for that ballot’s highest ranked advancing candidate.&lt;/li&gt;
+				&lt;li&gt;If no candidate receives a majority at the second round of counting, there shall be a third round of counting, continuing in the manner prescribed above.&lt;/li&gt;
+				&lt;li&gt;The process of eliminating the last-place candidates and recounting all the continuing ballots shall continue until one candidate receives a majority of the votes in a round.  The candidate who receives a majority of the votes in a round shall be declared the winner, pending ratification.&lt;/li&gt;
+				&lt;li&gt;When a ballot does not list a preference for any given round, it shall not be counted in that round or any subsequent round.&lt;/li&gt;
+				&lt;li&gt;If there are not sufficient second and lower choices for any candidate to receive a majority, the candidate with the highest number of votes shall be declared the winner, pending ratification.&lt;/li&gt;
+				&lt;li&gt;When a ballot becomes an exhausted ballot, it shall not be counted in that round or any subsequent round for that position.&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+		&lt;li&gt;For the officer positions of multi-seat senate races, the ballots shall be counted by the method of multi-winner ranked choice voting&lt;/li&gt;
+		&lt;li&gt;Multi-Winner Ranked Choice Voting procedures
+			&lt;ol&gt;
+				&lt;li&gt;The threshold for each multi-winner race is determined by using the number of open positions and adding one to that number to determine a denominating number. Then taking the total number of valid ballots cast and dividing by that denominating number. The resulting number is then increased by one.
+					&lt;ol&gt;
+						&lt;li&gt;((Total number of votes cast for that position)/(number of open positions + 1))+1&lt;/li&gt;
+					&lt;/ol&gt;
+				&lt;/li&gt;
+				&lt;li&gt;Counting the ballot
+					&lt;ol&gt;
+						&lt;li&gt;The initial round of counting shall be a count of the first choices marked on each ballot. Any candidates who reaches the necessary threshold after the first round of counting are declared elected
+							&lt;ol&gt;
+								&lt;li&gt;A candidate elected in the initial round shall not receive any further ballots&lt;/li&gt;
+								&lt;li&gt;Any candidate reaching threshold shall not receive any more ballots&lt;/li&gt;
+							&lt;/ol&gt;
+						&lt;/li&gt;
+						&lt;li&gt;In the event that the initial round did not result in electing candidates to fill all open positions then the remaining positons shall be determined by the following:
+							&lt;ol&gt;
+								&lt;li&gt;Votes above the threshold for the elected candidates are redistributed to the candidates marked next in preference using surplus transfer (see that section).&lt;/li&gt;
+							&lt;/ol&gt;
+						&lt;/li&gt;
+						&lt;li&gt;If, after transferring the surplus, a candidate’s votes rise to the threshold, that candidate is declared elected.&lt;/li&gt;
+						&lt;li&gt;Surplus transfer is repeated until all votes have been transferred.  If a position is still open, then the candidate that has the lowest number of votes is eliminated and their ballots are counted for the next indicated choice on their ballot. This process continues until no remaining candidates reach the threshold or the number of eliminated candidates precludes any further election.&lt;/li&gt;
+					&lt;/ol&gt;
+				&lt;/li&gt;
+				&lt;li&gt;Transferring the surplus
+					&lt;ol&gt;
+						&lt;li&gt;Ballots cast for candidates whom met threshold are sorted by pile, by the elected candidate.&lt;/li&gt;
+						&lt;li&gt;A surplus number is determined for each elected candidate by taking the total number of votes for that candidate and subtracting the threshold number.&lt;/li&gt;
+						&lt;li&gt;Using that surplus number, ballots are removed from that candidates stack and distributed to other candidates as follows:
+							&lt;ol&gt;
+								&lt;li&gt;Each pile is recounted to determine the number of next votes for any candidates not yet elected.&lt;/li&gt;
+								&lt;li&gt;Using those numbers, the remaining candidates are given a portion of the votes relative to the voting share reflected by the recount
+									&lt;ol&gt;
+										&lt;li&gt;(Next choice/total votes for that candidate) *surplus number&lt;/li&gt;
+									&lt;/ol&gt;
+								&lt;/li&gt;
+							&lt;/ol&gt;
+						&lt;/li&gt;
+					&lt;/ol&gt;
+				&lt;/li&gt;
+			&lt;/ol&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;h3&gt;Marking a ballot&lt;/h3&gt;
+	&lt;ol&gt;
+		&lt;li&gt;For multi candidate races - voters are to rank their choices in order of preference – 1st choice, 2nd choice, 3rd choice, and so on.&lt;/li&gt;
+		&lt;li&gt;To be valid, a ballot must be marked with sequential numbers&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="Statutes" /><summary type="html">Last Revised: 04.08.20 Originally Written by: Session 4 LEB</summary></entry><entry><title type="html">Title I - Introduction to SGA Statutes</title><link href="http://localhost:4000/Statutes/TitleI/" rel="alternate" type="text/html" title="Title I - Introduction to SGA Statutes" /><published>2021-12-19T00:00:00-05:00</published><updated>2021-12-19T00:00:00-05:00</updated><id>http://localhost:4000/Statutes/title_i</id><content type="html" xml:base="http://localhost:4000/Statutes/TitleI/">&lt;blockquote&gt;
   &lt;p&gt;Last Revised: 6-28-19&lt;/p&gt;
 
   &lt;p&gt;Originally Written by: Session 4 LEB&lt;/p&gt;
