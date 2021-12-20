@@ -11,7 +11,7 @@ The Executive Branch includes the Student Body President, Vice President, Treasu
 
 [Contact the Executive Branch](mailto:sgavicepresident@floridapoly.edu) 
 
-## [Legislative Branch](/Legislative/Legislative/)
+## [Legislative Branch](/Legislative/Senate/)
 The Legislative Branch is comprised of senators represented by class years, degree programs, and on- and off-campus students. The Senate enacts statutes, allocates funds and oversees campus organizations. The Legislative Branch will grow as the University grows.
 
 [View All Committees](/Legislative/LegislativeCommittees/)
