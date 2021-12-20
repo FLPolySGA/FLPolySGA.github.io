@@ -39,7 +39,7 @@ categories: Session8
 > E - Left Early (Time Left)
 
 ## Start Quorum
-- x/12 Committee Members (Quorum [NOT] Met)
+- Quorum [NOT] Met
 
 ## Initial Motions
 - 
@@ -74,7 +74,7 @@ categories: Session8
 - 
 
 ## End Quorum
-- x/12 Committee Members (Quorum [NOT] Met)
+- Quorum [NOT] Met
 
 ## Next Meeting
 - 
