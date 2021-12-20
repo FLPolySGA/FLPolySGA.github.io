@@ -26,7 +26,6 @@ categories: Session8
 | Gustavo Maldonado 						| P 		| P |
 | Julian Melendez 							| P 		| P |
 | Charles 									| P 		| P |
-| Akshad Patel 								| P 		| P |
 | Douglas Poole 							| P			| P |
 
 > Legend:
@@ -40,7 +39,7 @@ categories: Session8
 > E - Left Early (Time Left)
 
 ## Start Quorum
-- x/y Committee Members (Quorum [NOT] Met)
+- x/12 Committee Members (Quorum [NOT] Met)
 
 ## Initial Motions
 - 
@@ -62,10 +61,20 @@ categories: Session8
 ### LEB Meeting
 - 
 
+### Elections Committee
+- 
+
+### Safety Committee
+-
+
+### Sustainability Committee
+- 
+
 ## Public Comment (2 minutes each)
+- 
 
 ## End Quorum
-- x/y Committee Members (Quorum [NOT] Met)
+- x/12 Committee Members (Quorum [NOT] Met)
 
 ## Next Meeting
 - 
