@@ -22,11 +22,11 @@ toc: true
 
 <style>
 	#legal-list { 
-		counter-reset: section; 
+		counter-reset: section 300; 
 		counter-increment: section -1;
 	}
 	#legal-list h3:before { 
-		content: "30" counter(section) ". ";
+		content: counter(section) ". ";
 		counter-increment: section;
 		margin: 0 0.5em 0 0;
 	}
@@ -37,7 +37,7 @@ toc: true
 	}
 	#legal-list ol li { counter-increment: clause; }
 	#legal-list ol li:before {
-		content: "30" counter(section) "." counters(clause, ".") ". ";
+		content: counter(section) "." counters(clause, ".") ". ";
 		margin: 0 0.5em 0 0;
 	}
 </style>
