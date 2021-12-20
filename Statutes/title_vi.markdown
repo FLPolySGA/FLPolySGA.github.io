@@ -3,6 +3,7 @@ layout: post
 title:  "Title VI - Elections"
 permalink: /Statutes/TitleVI/
 categories: Statutes
+docs_list_title: TitleVI
 toc: true
 ---
 
