@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meet Legislative"
-permalink: /AboutSGA/MeetLegislative
+permalink: /AboutSGA/MeetLegislative/
 categories: AboutSGA
 ---
 
