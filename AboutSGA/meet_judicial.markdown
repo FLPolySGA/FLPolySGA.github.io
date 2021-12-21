@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Meet Judicial"
-permalink: /AboutSGA/MeetJudicial
+permalink: /AboutSGA/MeetJudicial/
 categories: AboutSGA
 ---
