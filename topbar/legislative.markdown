@@ -35,5 +35,4 @@ Contact the [Information and Communication Committee](mailto:ICC@floridapoly.edu
 
 ## General Senate Meeting Agendas and Minutes
 
-8. [Session 8 (Spring 2021-Spring 2022)](/Legislative/Senate/Session8/)
-{: reversed="reversed"}
+- [Session 8 (Spring 2021-Spring 2022)](/Legislative/Senate/Session8/)
