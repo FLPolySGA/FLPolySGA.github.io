@@ -6,6 +6,9 @@ categories: AboutSGA
 ---
 
 ### President
+
+<img src="/assets/Executive/samantha_ashby.jpg" alt="President" height="200"/>
+
 > Samantha Ashby
 > 
 > [Email the President](mailto:sgapresident@floridapoly.edu)
@@ -13,7 +16,7 @@ categories: AboutSGA
 ### Vice-President
 > 
 > 
-> [Email the Vice-President](mailto:sgavicepresident@gfloridapoly.edu)
+> [Email the Vice-President](mailto:sgavicepresident@floridapoly.edu)
 
 ### Treasurer
 > Jake Greenberg
