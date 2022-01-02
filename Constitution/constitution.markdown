@@ -23,7 +23,7 @@ We, the Student Body of the Florida Polytechnic University:
 
 Do hereby establish this Constitution.
 
-### **<center><u>Article I: DECLARATION OF RIGHTS AND RESPONSIBILITIES</u></center>**
+<center><h3><b><u>Article I: DECLARATION OF RIGHTS AND RESPONSIBILITIES</u></b></h3></center>
 
 #### **<u>Section 1. Political power.</u>**
 All political power granted by authorities authorized under the Constitution of the State of Florida, laws, and regulations of the State of Florida is inherent in the Student Body.
@@ -48,7 +48,7 @@ All Students are bound by the Honor Code and shall be held accountable to it. Th
 #### **<u>Section 4. Discrimination Prohibited.</u>**
 Student Government Association (SGA) and any organization that receives SGA funding shall not discriminate on the basis of race, creed, color, religion, age, disability, sex, sexual orientation, gender identity and expression, marital status, national origin, political opinions or affiliations, veteran status, legal status, or any other classification as provided by law.
 
-### **<center><u>Article II: GENERAL PROVISIONS</u></center>**
+<center><h3><b><u>Article II: GENERAL PROVISIONS</u></b></h3></center>
 
 #### **<u>Section 1. Student Body.</u>**
 The Student Body shall be held to SGA laws put forth, as well as entitled to all privileges and immunities of students provided for, in this: “The Constitution of the Student Body of Florida Polytechnic University”.
@@ -71,7 +71,7 @@ Student Government shall be divided into a Legislative, an Executive, and a Judi
 		<dd><p style="margin-left:5%">Nothing in this Constitution shall be construed to prohibit any student from holding an exclusionary office and simultaneously holding as a member of the Constitution Revision Commission, a member of an independent body having only advisory powers created by Student Body Statutes, or a member of a committee or commission created by the Student Body President.</p></dd>
 </dl>
 
-### **<center><u>Article III: THE LEGISLATURE</u></center>**
+<center><h3><b><u>Article III: THE LEGISLATURE</u></b></h3></center>
 
 #### **<u>Section 1. Legislative Authority</u>**
 The legislative authority of the Student Body shall be vested in the Student Senate herein after referred to as “The Senate”.
@@ -167,7 +167,7 @@ The Senate shall not:
 	<li>Enact any law embracing more than one (1) subject and matter properly connected to that subject.</li>
 </ol>
 
-### **<center><u>Article IV: Executive Branch</u></center>**
+<center><h3><b><u>Article IV: Executive Branch</u></b></h3></center>
 
 #### **<u>Section 1. Executive Power</u>**
 All executive powers of the Student Body shall be vested in a Student Body President, Student Body Vice President, Student Body Treasurer, and Student Body Chief of Staff, who will be known as the SGA Executive Board.
@@ -238,7 +238,7 @@ The Student Body Secretary shall:
 	<li>Exercise all other powers and duties provided by the Constitution.</li>
 </ol>
 
-### **<center><u>Article V: Judicial Branch</u></center>**
+<center><h3><b><u>Article V: Judicial Branch</u></b></h3></center>
 
 #### **<u>Section 1. Judicial Powers</u>**
 All judicial power of the Student Body shall be vested in the Judicial Branch, and such other tribunals as are established by law.
@@ -281,7 +281,7 @@ Practice and procedure:
 		<dd>The Chief Justice may appoint a clerk and a marshal for the Supreme Court who shall hold office during the pleasure of the Chief Justice and perform such duties pertinent for to the court as the Chief Justice directs.</dd>
 </dl>
 
-### **<center><u>Article VI: ELECTIONS</u></center>**
+<center><h3><b><u>Article VI: ELECTIONS</u></b></h3></center>
 
 #### **<u>Section 1. Qualifications to Vote</u>**
 The Student Body shall comprise the electorate. Each member of the electorate shall be entitled to a single vote per election or item in Student Body elections.
@@ -308,7 +308,7 @@ b)	The Senators shall assume office at the first meeting following validation by
 #### **<u>Section 8: Qualifications for Office</u>**
 Unless a more restrictive standard is stated in the Constitution, to be eligible for an office within student government, a student must have and maintain an overall 2.5 grade point average on all work attempted as a member of the Student Body and conform to all requirements imposed by the Division of Student Affairs. Candidates for the offices of the Executive Branch shall have completed a minimum of three (3) academic semesters, excluding summer semesters, at Florida Polytechnic University. <em>This will take effect in the Spring of 2016.</em>
 
-### **<center><u>Article VII: IMPEACHMENT</u></center>**
+<center><h3><b><u>Article VII: IMPEACHMENT</u></b></h3></center>
 
 #### **<u>Section 1. The Recall and Remove Procedure</u>**
 A recall petition signed by one-eighth (1/8) of the total Student Body initiates a referendum in the Student Body. At least one-fourth (1/4) of the Student Body must vote in the referendum or the elected official retains office. The result will go in favor of the majority vote.
@@ -335,7 +335,7 @@ All impeachments by the impeachment body shall be tried by the trial body which 
 #### **<u>Section 7: Effect of conviction</u>**
 Judgment of conviction in cases of impeachment shall remove the offender from office and, at the discretion of the trial body, may include disqualification to hold any elected or appointed student government office in the future. Conviction or acquittal shall not affect the civil or criminal responsibility of the person.
 
-### **<center><u>Article VIII: AMENDMENTS</u></center>**
+<center><h3><b><u>Article VIII: AMENDMENTS</u></b></h3></center>
 
 #### **<u>Section 1: Proposal by The Senate</u>**
 The Senate may introduce amendments to the Constitution in a meeting, and during a subsequent meeting the amendment is passed by a super majority vote of The Senate. This shall occur no later than twenty-eight (28) days before the ratification election. Each amendment proposed shall embrace only one (1) subject and matter directly connected to that subject.
@@ -349,7 +349,7 @@ A three-fifths (3/5) approval vote of those voting in the Spring general electio
 #### **<u>Section 4: Publication Requirement</u>**
 The text and summary of all amendments shall be published in a campus-wide media publication one (1) week before and on both days of the election.
 
-### **<center><u>Article IX: MISCELLANEOUS</u></center>**
+<center><h3><b><u>Article IX: MISCELLANEOUS</u></b></h3></center>
 
 #### **<u>Section 1. Rules of construction.</u>**
 Unless otherwise qualified in the text, the following rules of construction shall apply to the Constitution:
@@ -387,7 +387,7 @@ Vacancy in office shall occur upon creation of an office, graduation without imm
 #### **<u>Section 3: Laws Preserved</u>**
 All laws enacted under the provisions of the School Year 2014-2015 Constitution, as subsequently amended, and not contrary to the provisions of this Constitution, shall remain in full effect until they expire by their terms or are repealed under the provisions of this Constitution.
 
-### **<center><u>Article X: RATIFICATION OF CONSTITUTION</u></center>**
+<center><h3><b><u>Article X: RATIFICATION OF CONSTITUTION</u></b></h3></center>
 
 #### **<u>Section 1. Process.</u>**
 <p style="color: rebeccapurple;"><em><big><big><big>The below authorities representing their department or branch sign below to acknowledge that the proper addition of the amendment(s) and the staying of unchanged material is correct</big></big></big></em></p>
