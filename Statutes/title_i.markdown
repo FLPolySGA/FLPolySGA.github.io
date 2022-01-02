@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title I - Introduction to SGA Statutes"
 permalink: /Statutes/TitleI/
 categories: Statutes

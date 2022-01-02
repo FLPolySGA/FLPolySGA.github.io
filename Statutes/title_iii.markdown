@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title III - The Executive Branch"
 permalink: /Statutes/TitleIII/
 categories: Statutes

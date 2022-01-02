@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title VI - Elections"
 permalink: /Statutes/TitleVI/
 categories: Statutes

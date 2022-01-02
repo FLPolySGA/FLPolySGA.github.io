@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title V - The Judicial Branch"
 permalink: /Statutes/TitleV/
 categories: Statutes

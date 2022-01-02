@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title IX - Student Government Agencies and Departments"
 permalink: /Statutes/TitleIX/
 categories: Statutes

@@ -1,14 +1,13 @@
 ---
-layout: post
+layout: anchored_post
 title:  "The Constitution of the Student Body of Florida Polytechnic University"
 permalink: /Constitution/
 categories: Constitution
-toc: true
 ---
 
 <div style="text-align: center"><img src="/assets/ConstitutionHeader.png" /></div>
 
-## **<center>The Constitution of the Student Body of Florida Polytechnic University</center>**
+<center><h2><b>The Constitution of the Student Body of Florida Polytechnic University</b></h2></center>
 
 <center>Adopted by the Florida Polytechnic University Student Body on <i>February 4th of 2015</i>.</center>
 

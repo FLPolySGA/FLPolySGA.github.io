@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title II - Officer Procedures"
 permalink: /Statutes/TitleII/
 categories: Statutes

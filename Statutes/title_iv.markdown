@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title IV - The Legislative Branch"
 permalink: /Statutes/TitleIV/
 categories: Statutes

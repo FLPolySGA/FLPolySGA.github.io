@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: anchored_post
 title:  "Title VII - Finance Code"
 permalink: /Statutes/TitleVII/
 categories: Statutes
