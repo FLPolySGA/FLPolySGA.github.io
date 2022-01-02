@@ -12,12 +12,12 @@ toc: true
 
 ## Title 4 The Legislative Branch
 
-<p style="margin-left:5%">Chapter 400: Legislative Authority</p>
-<p style="margin-left:5%">Chapter 401: General Requirements</p>
-<p style="margin-left:5%">Chapter 402: Ranking Officers of the Senate</p>
-<p style="margin-left:5%">Chapter 403: Order of Succession</p>
-<p style="margin-left:5%">Chapter 404: Legislation of the Legislative Branch</p>
-<p style="margin-left:5%">Chapter 405: Composition of Legislation</p>
+<a href="#400" style="margin-left:5%; color: black">Chapter 400: Legislative Authority</a><br>
+<a href="#401" style="margin-left:5%; color: black">Chapter 401: General Requirements</a><br>
+<a href="#402" style="margin-left:5%; color: black">Chapter 402: Ranking Officers of the Senate</a><br>
+<a href="#403" style="margin-left:5%; color: black">Chapter 403: Order of Succession</a><br>
+<a href="#404" style="margin-left:5%; color: black">Chapter 404: Legislation of the Legislative Branch</a><br>
+<a href="#405" style="margin-left:5%; color: black">Chapter 405: Composition of Legislation</a><br>
 
 <style>
 	#legal-list { 
@@ -43,11 +43,11 @@ toc: true
 
 <html>
 <body id="legal-list">
-	<h3>Legislative Authority</h3>
+	<h3 id="400">Legislative Authority</h3>
 	<ol>
 		<li>The composition and authority of the Legislative Branch shall be as contained in the SGA Constitution.</li>
 	</ol>
-	<h3>General Requirements</h3>
+	<h3 id="401">General Requirements</h3>
 	<ol>
 		<li>Senators shall be in compliance with the standards for being a member of the Legislative Branch as stated in the SGA Constitution and SGA Statutes.
 			<ol>
@@ -62,7 +62,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Ranking Officers of the Senate</h3>
+	<h3 id="402">Ranking Officers of the Senate</h3>
 	<ol>
 		<li>The following are ranking officers of the Senate:
 			<ol>
@@ -99,7 +99,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Order of Succession</h3>
+	<h3 id="403">Order of Succession</h3>
 	<ol>
 		<li>Should the Senate President be unable to fulfill their duties; the order of succession shall be:
 			<ol>
@@ -110,7 +110,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Legislation of the Legislative Branch</h3>
+	<h3 id="404">Legislation of the Legislative Branch</h3>
 	<ol>
 		<li>Legislation approved by the Legislative Branch must be approved or vetoed by the Student Body President within fifteen (15) business days of approval. The legislation will pass by default if the President fails to act.</li>
 		<li>Legislation will follow the classifications outlined in Article 3, Section 6, part h of the SGA Constitution.</li>
@@ -121,7 +121,7 @@ toc: true
 		</li>
 		<li>All vetoed bills that have been overridden by a Supermajority vote of the Senate will follow the above procedures outlined in 404.3.</li>
 	</ol>
-	<h3>Composition of Legislation</h3>
+	<h3 id="405">Composition of Legislation</h3>
 	<ol>
 		<li>All forms of Legislation except for subsidiary budgets will contain the following:
 			<ol>

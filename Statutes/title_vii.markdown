@@ -12,19 +12,19 @@ toc: true
 
 ## Title 7 Finance Code
 
-<p style="margin-left:5%">Chapter 700: Introduction</p>
-<p style="margin-left:5%">Chapter 701: Definitions</p>
-<p style="margin-left:5%">Chapter 702: Audit and Budget Committee</p>
-<p style="margin-left:5%">Chapter 703: Budget Approval and Amendments</p>
-<p style="margin-left:5%">Chapter 704: Rules and Requirements for Entities Funded by A&S</p>
-<p style="margin-left:5%">Chapter 705: Travel</p>
-<p style="margin-left:5%">Chapter 706: A&S Rollover</p>
-<p style="margin-left:5%">Chapter 707: A&S Reserves</p>
-<p style="margin-left:5%">Chapter 708: Contracts</p>
-<p style="margin-left:5%">Chapter 709: Freezing of Funds</p>
-<p style="margin-left:5%">Chapter 710: Budget Deficits</p>
-<p style="margin-left:5%">Chapter 711: Penalty Measures</p>
-<p style="margin-left:5%">Chapter 712: Enforcement</p>
+<a href="#700" style="margin-left:5%; color: black">Chapter 700: Introduction</a><br>
+<a href="#701" style="margin-left:5%; color: black">Chapter 701: Definitions</a><br>
+<a href="#702" style="margin-left:5%; color: black">Chapter 702: Audit and Budget Committee</a><br>
+<a href="#703" style="margin-left:5%; color: black">Chapter 703: Budget Approval and Amendments</a><br>
+<a href="#704" style="margin-left:5%; color: black">Chapter 704: Rules and Requirements for Entities Funded by A&S</a><br>
+<a href="#705" style="margin-left:5%; color: black">Chapter 705: Travel</a><br>
+<a href="#706" style="margin-left:5%; color: black">Chapter 706: A&S Rollover</a><br>
+<a href="#707" style="margin-left:5%; color: black">Chapter 707: A&S Reserves</a><br>
+<a href="#708" style="margin-left:5%; color: black">Chapter 708: Contracts</a><br>
+<a href="#709" style="margin-left:5%; color: black">Chapter 709: Freezing of Funds</a><br>
+<a href="#710" style="margin-left:5%; color: black">Chapter 710: Budget Deficits</a><br>
+<a href="#711" style="margin-left:5%; color: black">Chapter 711: Penalty Measures</a><br>
+<a href="#712" style="margin-left:5%; color: black">Chapter 712: Enforcement</a><br>
 
 <style>
 	#legal-list { 
@@ -50,12 +50,12 @@ toc: true
 
 <html>
 <body id="legal-list">
-	<h3>Introduction</h3>
+	<h3 id="700">Introduction</h3>
 	<ol>
 		<li>This chapter serves to detail the financial policies, procedures, and rules governing all Activity and Service fees and Student Government Association Funds, and shall serve as the foundation for answering the needs of the Student Body.</li>
 		<li>This Statute shall comply with Florida Statute 1009.24(10) (a)</li>
 	</ol>
-	<h3>Definitions</h3>
+	<h3 id="701">Definitions</h3>
 	<ol>
 		<li>A&S Fees – Activity and Service Fees</li>
 		<li>Secondary Funds – Student Government monies including fundraised, foundation, and auxiliary funds</li>
@@ -68,7 +68,7 @@ toc: true
 		<li>FY – Fiscal Year, In accordance with University fiscal year. </li>
 		<li>Line Item Transfer – Any Reallocation of A&S Fees already associated with a line item.</li>
 	</ol>
-	<h3>Audit and Budget Committee</h3>
+	<h3 id="702">Audit and Budget Committee</h3>
 	<ol>
 		<li>Annual Budget Process
 			<ol>
@@ -113,7 +113,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Budget Approval and Amendments</h3>
+	<h3 id="703">Budget Approval and Amendments</h3>
 	<ol>
 		<li>Budget Approvals
 			<ol>
@@ -128,7 +128,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Rules and Requirements for Entities Funded by A&S</h3>
+	<h3 id="704">Rules and Requirements for Entities Funded by A&S</h3>
 	<ol>
 		<li>An accurate account and spending records of all A&S and Secondary Funds are required. These records must be made available to the ABC and S&E upon request</li>
 		<li>All A&S and Secondary funded entities are expected to maintain a non-negative balance based on certified received budget amounts.</li>
@@ -177,7 +177,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Travel</h3>
+	<h3 id="705">Travel</h3>
 	<ol>
 		<li>Travel distance requirements
 			<ol>
@@ -219,17 +219,17 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>A&S Rollover</h3>
+	<h3 id="706">A&S Rollover</h3>
 	<ol>
 		<li>All funding allocations expire at the end of the fiscal year</li>
 	</ol>
-	<h3>A&S Property</h3>
+	<h3 id="707">A&S Property</h3>
 	<ol>
 		<li>All items bought with A&S fees are considered A&S property </li>
 		<li>Any item bought by SGA that has no executor is managed by Executive </li>
 		<li>All executors are responsible for maintaining a list with the item location and status of items under their care</li>
 	</ol>
-	<h3>Contracts</h3>
+	<h3 id="708">Contracts</h3>
 	<ol>
 		<li>All contracts must be vetted, reviewed, and approved by Procurement</li>
 		<li>All contracts must be vetted, reviewed, and approved by the SGA Advisor</li>
@@ -239,17 +239,17 @@ toc: true
 		<li>Any contracts with a length duration exceeding (2) years shall be sent to the SGA Senate for approval by a supermajority vote and may be appealed to the SGA judicial branch for a supermajority vote</li>
 		<li>Any contract requiring a yearly fiscal commitment exceeding $5000 dollars shall be sent to the SGA Senate for approval by a supermajority vote and may be appealed to the SGA judicial branch by a supermajority vote</li>
 	</ol>
-	<h3>Freezing of Funds</h3>
+	<h3 id="709">Freezing of Funds</h3>
 	<ol>
 		<li>Should an RSO have a status of “frozen” their funds will be frozen. The automatic freeze shall last no longer than 2 months without an attempt to reconcile with the senate</li>
 		<li>RSO Funding may be frozen via a supermajority vote of the senate</li>
 		<li>RSO Funding may be unfrozen via a supermajority vote of the senate</li>
 	</ol>
-	<h3>Budget Deficits</h3>
+	<h3 id="710">Budget Deficits</h3>
 	<ol>
 		<li>In the event of perceived budget deficits as determined by the Senate President, Chief Justice, Student Body President, or ABC Chair, a meeting shall be called by the Treasurer within two (2) weeks of “perceived budget deficit” notification.</li>
 	</ol>
-	<h3>Penalty Measures</h3>
+	<h3 id="711">Penalty Measures</h3>
 	<ol>
 		<li>SGA asset loss, damage, or theft fall under 711.3</li>
 		<li>Violation or perceived malice against the student body statutes may result in enforcement of 711</li>
@@ -267,7 +267,7 @@ toc: true
 		<li>No penalty shall continue from one fiscal year to the next</li>
 		<li>Any RSO under penalty may attempt to reconcile with the LEB, Treasurer, and S&E director</li>
 	</ol>
-	<h3>Enforcement</h3>
+	<h3 id="712">Enforcement</h3>
 	<ol>
 		<li>This Statute shall be enforced by the following
 			<ol>

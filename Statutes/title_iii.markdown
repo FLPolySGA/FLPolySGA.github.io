@@ -12,13 +12,13 @@ toc: true
 
 ## Title 3 The Executive Branch
 
-<p style="margin-left:5%">Chapter 300: Executive Powers</p>
-<p style="margin-left:5%">Chapter 301: Executive Branch Vacancies</p>
-<p style="margin-left:5%">Chapter 302: Continuity</p>
-<p style="margin-left:5%">Chapter 303: Powers of the President Elect</p>
-<p style="margin-left:5%">Chapter 304: Transition Period</p>
-<p style="margin-left:5%">Chapter 305: External Representation</p>
-<p style="margin-left:5%">Chapter 306: Internal Representation and Communication</p>
+<a href="#300" style="margin-left:5%; color: black">Chapter 300: Executive Powers</a><br>
+<a href="#301" style="margin-left:5%; color: black">Chapter 301: Executive Branch Vacancies</a><br>
+<a href="#302" style="margin-left:5%; color: black">Chapter 302: Continuity</a><br>
+<a href="#303" style="margin-left:5%; color: black">Chapter 303: Powers of the President Elect</a><br>
+<a href="#304" style="margin-left:5%; color: black">Chapter 304: Transition Period</a><br>
+<a href="#305" style="margin-left:5%; color: black">Chapter 305: External Representation</a><br>
+<a href="#306" style="margin-left:5%; color: black">Chapter 306: Internal Representation and Communication</a><br>
 
 <style>
 	#legal-list { 
@@ -44,7 +44,7 @@ toc: true
 
 <html>
 <body id="legal-list">
-    <h3>Executive Powers</h3>
+    <h3 id="300">Executive Powers</h3>
     <ol>
     	<li>The powers of the executive branch are granted from the Student Body Constitution.</li>
     	<li>The Executive Branch shall
@@ -111,7 +111,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Executive Branch Vacancies</h3>
+    <h3 id="301">Executive Branch Vacancies</h3>
     <ol>
     	<li>Student Body President
     		<ol>
@@ -135,7 +135,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Continuity</h3>
+    <h3 id="302">Continuity</h3>
     <ol>
     	<li>Should the office of Student Body President become vacant, the following continuity plan shall be enacted.
     		<ol>
@@ -145,22 +145,22 @@ toc: true
     	</li>
     	<li>For any other elected vacancy other than Student Body President shall be filled by the runner-up for that position pending approval of the Senate stated in Article III of the SGA Constitution.</li>
     </ol>
-    <h3>Powers of the President-Elect</h3>
+    <h3 id="303">Powers of the President-Elect</h3>
     <ol>
     	<li>The President-Elect shall have the ability to designate all incoming cabinet level positions and Executive staff.</li>
     	<li>The President-Elect shall have the ability to dismiss any designee</li>
     </ol>
-    <h3>Transition Period</h3>
+    <h3 id="304">Transition Period</h3>
     <ol>
     	<li>The Executive transition period shall begin the day after the President-Elect is officially announced and conclude when the President-Elect takes office.</li>
     	<li>During the transition period the President-Elect must meet with the outgoing President to discuss turnover a minimum of four (4) times, unless extreme circumstances prohibit from completing this requirement. Extreme circumstances are defined by the Student Body President.</li>
     	<li>The outgoing administration shall provide the President-Elect with all available documents pertaining to the Executive Branch.</li>
     </ol>
-    <h3>External Representation</h3>
+    <h3 id="305">External Representation</h3>
     <ol>
     	<li>The President shall act as the Student Government Association main representative for all external communication, including but not limited to; Student Body Representation to the State and Federal Legislature, Florida Student Association, and any other governmental bodies.</li>
     </ol>
-    <h3>Internal Representation and Communication</h3>
+    <h3 id="306">Internal Representation and Communication</h3>
     <ol>
     	<li>The Executive Branch shall serve as the representation and communication of SGA to University Administration. Including but not limited to; Office of the President, Office of the Provost, Board of Trustees, and the University Departments.</li>
     	<li>After initial contact, relevant bodies within SGA may maintain communication with University Administration.</li>

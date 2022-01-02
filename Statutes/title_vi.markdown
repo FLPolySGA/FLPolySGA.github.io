@@ -13,16 +13,16 @@ toc: true
 
 ## Title 6 Elections
 
-<p style="margin-left:5%">Chapter 600: Elections Code of Ethics</p>
-<p style="margin-left:5%">Chapter 601: Elections Committee</p>
-<p style="margin-left:5%">Chapter 602: Candidacy</p>
-<p style="margin-left:5%">Chapter 603: Campaigning</p>
-<p style="margin-left:5%">Chapter 604: Voting</p>
-<p style="margin-left:5%">Chapter 605: Election Results</p>
-<p style="margin-left:5%">Chapter 606: Student Government Association Orientation</p>
-<p style="margin-left:5%">Chapter 607: Apportionment</p>
-<p style="margin-left:5%">Chapter 608: Voting Method</p>
-<p style="margin-left:5%">Chapter 609: Marking a Ballot</p>
+<a href="#600" style="margin-left:5%; color: black">Chapter 600: Elections Code of Ethics</a><br>
+<a href="#601" style="margin-left:5%; color: black">Chapter 601: Elections Committee</a><br>
+<a href="#602" style="margin-left:5%; color: black">Chapter 602: Candidacy</a><br>
+<a href="#603" style="margin-left:5%; color: black">Chapter 603: Campaigning</a><br>
+<a href="#604" style="margin-left:5%; color: black">Chapter 604: Voting</a><br>
+<a href="#605" style="margin-left:5%; color: black">Chapter 605: Election Results</a><br>
+<a href="#606" style="margin-left:5%; color: black">Chapter 606: Student Government Association Orientation</a><br>
+<a href="#607" style="margin-left:5%; color: black">Chapter 607: Apportionment</a><br>
+<a href="#608" style="margin-left:5%; color: black">Chapter 608: Voting Method</a><br>
+<a href="#609" style="margin-left:5%; color: black">Chapter 609: Marking a Ballot</a><br>
 
 <style>
 	#legal-list { 
@@ -48,7 +48,7 @@ toc: true
 
 <html>
 <body id="legal-list">
-	<h3>Elections Code of Ethics</h3>
+	<h3 id="600">Elections Code of Ethics</h3>
 	<ol>
 		<li>Voters will not have their opinions influenced while they are voting</li>
 		<li>No person is allowed to defame written or verbal campaign material</li>
@@ -62,7 +62,7 @@ toc: true
 		<li>No candidate will take advantage of the official capacity of their position (if an employee of the University) for their own personal campaign</li>
 		<li>Candidates may not campaign in an area that causes discomfort to the public, student body, faculty, or staff</li>
 	</ol>
-	<h3>Elections Committee</h3>
+	<h3 id="601">Elections Committee</h3>
 	<ol>
 		<li>The Election Committee (EC) will be an unbiased party loosely attached to SGA with the purpose of creating and running a fair election.</li>
 		<li>The Election Committee will keep a Rules of Operation to further define and lay out procedure for content from Title VI of SGA Statutes.</li>
@@ -86,7 +86,7 @@ toc: true
 		<li>Members of the Election Committee are not allowed to run for office or currently hold office in SGA</li>
 		<li>The Election Committee must have a minimum of 4 voting members including the Elections Chair who will have a vote in the event of a tie</li>
 	</ol>
-	<h3>Candidacy</h3>
+	<h3 id="602">Candidacy</h3>
 	<ol>
 		<li>Candidates must agree to abide by all rules, regulations, and procedures found within Title 6 of the statutes and within the Elections Committee Rules of Operation</li>
 		<li>Candidates must submit an application package to the Elections Committee by the deadline as outlined in the Elections Committee Rules of Operation.</li>
@@ -97,7 +97,7 @@ toc: true
 		<li>The Elections Committee will verify that all candidates meet the minimum qualifications for their position as defined in the SGA Constitution, Statutes, and other governing documents</li>
 		<li>Candidates may withdraw from the election by submitting a withdrawal form to the EC, at no penalty to them. Candidates that withdraw from the election may not reapply to the same election from which they have withdrawn</li>
 	</ol>
-	<h3>Campaigning</h3>
+	<h3 id="603">Campaigning</h3>
 	<ol>
 		<li>Campaign Period shall begin two (2) weeks prior to voting and will end on the last day of voting.</li>
 		<li>Students may not actively or passively campaign within 50 yards (150 feet) in any direction of an Official Polling location forty-eight (48) hours prior to their election.</li>
@@ -126,19 +126,19 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Voting</h3>
+	<h3 id="604">Voting</h3>
 	<ol>
 		<li>All Florida Poly students have the right to vote in SGA elections.  </li>
 		<li>Changes to students’ voting status for the purpose of college selection shall only be considered if the change took place at least thirty (30) calendar days before voting opens.</li>
 		<li>Write-in candidates may occur in the fall and spring election for positions that go unfilled. All write-ins shall be subject to the Elections Code of Ethics.</li>
 		<li>The Elections Committee must verify that winning Write-in candidates did not campaign actively before the election and that winning Write-in candidates fulfill all requirements for the position they were written-in for.</li>
 	</ol>
-	<h3>Elections Results</h3>
+	<h3 id="605">Elections Results</h3>
 	<ol>
 		<li>The Elections Committee will present the results of elections to the next scheduled Senate meeting to be verified by the Senate with a majority vote.</li>
 		<li>Upon verification, the Elections Committee will send out the results via email to the student body no more than 5 business days after they are verified. If they are not sent out within 5 business days, the Senate will send out the results.</li>
 	</ol>
-	<h3>Student Government Association Orientation</h3>
+	<h3 id="606">Student Government Association Orientation</h3>
 	<ol>
 		<li>All elected candidates will attend an orientation before taking office
 			<ol>
@@ -147,14 +147,14 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Apportionment</h3>
+	<h3 id="607">Apportionment</h3>
 	<ol>
 		<li>The Senate shall reapportion itself once per year at least six (6) weeks before the date of the spring election to be effective for the spring academic term and subsequent fall academic term</li>
 		<li>The Office of Institutional Research estimated student body population for the next academic year will be used for reapportionment</li>
 		<li>If the estimated student body is not available at the time of reapportionment, the current student body population will be used</li>
 		<li>The estimated or current total student body population will be rounded to the nearest 240 students for the purpose of allocating the total number of Senate seats</li>
 	</ol>
-	<h3>Voting Method</h3>
+	<h3 id="608">Voting Method</h3>
 	<ol>
 		<li>For the officer positions of Student Body President, Student Body Vice President, Student Body Treasurer, Student Body Chief of Staff, and all single-seat Senate races, the ballots shall be counted by the method of ranked choice voting if there are more than two (2) candidates. First-Past-The-Post voting “majority vote” will be used in that scenario</li>
 		<li>Ranked Choice Voting counting procedure
@@ -212,7 +212,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Marking a ballot</h3>
+	<h3 id="609">Marking a ballot</h3>
 	<ol>
 		<li>For multi candidate races - voters are to rank their choices in order of preference – 1st choice, 2nd choice, 3rd choice, and so on.</li>
 		<li>To be valid, a ballot must be marked with sequential numbers</li>

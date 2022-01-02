@@ -12,8 +12,8 @@ toc: true
 
 ## Title 9 Student Government Agencies and Departments
 
-<p style="margin-left:5%">Chapter 900: Agency Creation</p>
-<p style="margin-left:5%">Chapter 901: Campus Activities Board</p>
+<a href="#900" style="margin-left:5%; color: black">Chapter 900: Agency Creation</a><br>
+<a href="#901" style="margin-left:5%; color: black">Chapter 901: Campus Activities Board</a><br>
 
 <style>
 	#legal-list { 
@@ -39,7 +39,7 @@ toc: true
 
 <html>
 <body id="legal-list">
-	<h3><b>Agency Creation</b></h3>
+	<h3 id="900"><b>Agency Creation</b></h3>
 	<ol>
 		<li><b>ARTICLE 1: INTRODUCTION</b>
 			<ol>
@@ -289,7 +289,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3><b>Campus Activities Board</b></h3>
+	<h3 id="901"><b>Campus Activities Board</b></h3>
 	<ol>
 		<li>CAB shall operate under its own Standard Operating Procedures, which shall not be in conflict with the Student Body Constitution or Student Government Statutes.</li>
 		<li>CAB shall be charged with the duties of planning and executing campus wide events, and any student culture events.</li>

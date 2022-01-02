@@ -12,11 +12,11 @@ toc: true
 
 ## Title 1 Introduction to SGA Statutes
 
-<p style="margin-left:5%">Chapter 100: System of Student Government Association (SGA) Statutes</p>
-<p style="margin-left:5%">Chapter 101: Amendments to the Student Government Association Statutes</p>
-<p style="margin-left:5%">Chapter 102: Enforcement of the Student Government Association Statutes</p>
-<p style="margin-left:5%">Chapter 103: Symbols</p>
-<p style="margin-left:5%">Chapter 104: Definitions of Terms in the Student Government Association Statutes</p>
+<a href="#100" style="margin-left:5%; color:black;">Chapter 100: System of Student Government Association (SGA) Statutes</a><br>
+<a href="#101" style="margin-left:5%; color:black;">Chapter 101: Amendments to the Student Government Association Statutes</a><br>
+<a href="#102" style="margin-left:5%; color:black;">Chapter 102: Enforcement of the Student Government Association Statutes</a><br>
+<a href="#103" style="margin-left:5%; color:black;">Chapter 103: Symbols</a><br>
+<a href="#104" style="margin-left:5%; color:black;">Chapter 104: Definitions of Terms in the Student Government Association Statutes</a>
 
 <style>
 	#legal-list { 
@@ -42,7 +42,7 @@ toc: true
 
 <html>
   <body id="legal-list">
-    <h3>System of Student Government Association (SGA) Statutes</h3>
+    <h3 id="100">System of Student Government Association (SGA) Statutes</h3>
     <ol>
       <li>Objective
         <ol>
@@ -61,7 +61,7 @@ toc: true
         </ol>
       </li>
     </ol>
-    <h3>Amendments to the Student Government Association Statutes</h3>
+    <h3 id="101">Amendments to the Student Government Association Statutes</h3>
     <ol>
     	<li>Objective
     		<ol>
@@ -87,7 +87,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Enforcement of the Student Government Association Statutes</h3>
+    <h3 id="102">Enforcement of the Student Government Association Statutes</h3>
     <ol>
     	<li>Enforcement
     		<ol>
@@ -95,7 +95,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Symbols</h3>
+    <h3 id="103">Symbols</h3>
     <ol>
     	<li>Symbols
     		<ol>
@@ -104,7 +104,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Definitions of Terms in the Student Government Association Statutes</h3>
+    <h3 id="104">Definitions of Terms in the Student Government Association Statutes</h3>
     <ol>
     	<li>Objective
     		<ol>

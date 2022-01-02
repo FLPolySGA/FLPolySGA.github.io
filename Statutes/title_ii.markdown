@@ -12,12 +12,12 @@ toc: true
 
 ## Title 2 Officer Procedures
 
-<p style="margin-left:5%">Chapter 200: Membership Eligibility</p>
-<p style="margin-left:5%">Chapter 201: Hiring</p>
-<p style="margin-left:5%">Chapter 202: Code of Ethics</p>
-<p style="margin-left:5%">Chapter 203: Transparency</p>
-<p style="margin-left:5%">Chapter 204: End of Term Procedures</p>
-<p style="margin-left:5%">Chapter 205:</p>
+<a href="#200" style="margin-left:5%; color: black">Chapter 200: Membership Eligibility</a><br>
+<a href="#201" style="margin-left:5%; color: black">Chapter 201: Hiring</a><br>
+<a href="#202" style="margin-left:5%; color: black">Chapter 202: Code of Ethics</a><br>
+<a href="#203" style="margin-left:5%; color: black">Chapter 203: Transparency</a><br>
+<a href="#204" style="margin-left:5%; color: black">Chapter 204: End of Term Procedures</a><br>
+<a href="#205" style="margin-left:5%; color: black">Chapter 205:</a>
 
 <style>
 	#legal-list { 
@@ -43,7 +43,7 @@ toc: true
 
 <html>
 <body id="legal-list">
-    <h3>Membership Eligibility</h3>
+    <h3 id="200">Membership Eligibility</h3>
     <ol>
     	<li>Objective
     		<ol>
@@ -68,7 +68,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Hiring</h3>
+    <h3 id="201">Hiring</h3>
     <ol>
     	<li>Objective
     		<ol>
@@ -127,7 +127,7 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Code of Ethics</h3>
+    <h3 id="202">Code of Ethics</h3>
     <ol>
     	<li>Objective
     		<ol>
@@ -145,11 +145,11 @@ toc: true
     		</ol>
     	</li>
     </ol>
-    <h3>Transparency</h3>
+    <h3 id="203">Transparency</h3>
     <ol>
     	<li>The Florida Polytechnic University SGA shall follow all Florida Sunshine Laws</li>
     </ol>
-    <h3>End of Term Procedures</h3>
+    <h3 id="204">End of Term Procedures</h3>
     <ol>
     	<li>End of Term
     		<ol>

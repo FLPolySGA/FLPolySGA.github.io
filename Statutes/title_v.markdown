@@ -12,12 +12,12 @@ toc: true
 
 ## Title 5 The Judicial Branch
 
-<p style="margin-left:5%">Chapter 500: Judicial Composition and Authority</p>
-<p style="margin-left:5%">Chapter 501: Judicial Rules of Procedure</p>
-<p style="margin-left:5%">Chapter 502: Ranking Officers of the Judicial Branch</p>
-<p style="margin-left:5%">Chapter 503: Rights of an individual Before the Court</p>
-<p style="margin-left:5%">Chapter 504: Temporary Justices</p>
-<p style="margin-left:5%">Chapter 505: Judicial Meetings</p>
+<a href="#500" style="margin-left:5%; color: black">Chapter 500: Judicial Composition and Authority</a><br>
+<a href="#501" style="margin-left:5%; color: black">Chapter 501: Judicial Rules of Procedure</a><br>
+<a href="#502" style="margin-left:5%; color: black">Chapter 502: Ranking Officers of the Judicial Branch</a><br>
+<a href="#503" style="margin-left:5%; color: black">Chapter 503: Rights of an individual Before the Court</a><br>
+<a href="#504" style="margin-left:5%; color: black">Chapter 504: Temporary Justices</a><br>
+<a href="#505" style="margin-left:5%; color: black">Chapter 505: Judicial Meetings</a><br>
 
 <style>
 	#legal-list { 
@@ -43,15 +43,15 @@ toc: true
 
 <html>
 <body id="legal-list">
-	<h3>Judicial Composition and Authority</h3>
+	<h3 id="500">Judicial Composition and Authority</h3>
 	<ol>
 		<li>The composition and authority of the Judicial Branch shall be as contained in the SGA Constitution under Article 5, Section 3, Parts A, B, and C.</li>
 	</ol>
-	<h3>Judicial Rules of Procedure</h3>
+	<h3 id="501">Judicial Rules of Procedure</h3>
 	<ol>
 		<li>The Judicial Branch Trial Procedures will govern the procedures for trials within the Judicial Branch.</li>
 	</ol>
-	<h3>Ranking Officers of the Judicial Branch</h3>
+	<h3 id="502">Ranking Officers of the Judicial Branch</h3>
 	<ol>
 		<li>The following are ranking officers of the Judicial Branch
 			<ol>
@@ -77,7 +77,7 @@ toc: true
 		</li>
 		<li>These roles will be further described in the Judicial Handbook/ROP</li>
 	</ol>
-	<h3>Rights of Individuals before the Court</h3>
+	<h3 id="503">Rights of Individuals before the Court</h3>
 	<ol>
 		<li>The Supreme Court will create a file for each case heard.</li>
 		<li>Individuals appearing before the Supreme Court will be guaranteed the following:
@@ -94,7 +94,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Temporary Justices</h3>
+	<h3 id="504">Temporary Justices</h3>
 	<ol>
 		<li>The Chief Justice may appoint Temporary Justices
 			<ol>
@@ -115,7 +115,7 @@ toc: true
 			</ol>
 		</li>
 	</ol>
-	<h3>Judicial Meetings</h3>
+	<h3 id="505">Judicial Meetings</h3>
 	<ol>
 		<li>The Chief Justice will preside over meetings</li>
 		<li>The Chief Justice will determine the time, day and place of the Judicial Branch meetings</li>
