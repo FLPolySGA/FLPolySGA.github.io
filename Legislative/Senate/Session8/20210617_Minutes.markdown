@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minutes
 title: "Florida Polytechnic University Senate Meeting Minutes (June 17, 2021)"
 permalink: /Legislative/Senate/Session8/20210617_Minutes/
 categories: Session8
@@ -46,7 +46,7 @@ categories: Session8
 - A motion to approve last meeting’s minutes was made by Benji and seconded by Alex passed unanimously. 
 
 ## Topics for Discussion
-- <a href="https://github.com/FLPolySGA/FLPolySGA.github.io/blob/main/Legislative/Senate/Session8/20210617_PresentedItems/Rules_for_Attendance.pdf" target="_blank" rel="noopener noreferrer">Attendance Guidelines</a> 
+- <u>Attendance Guidelines</u> 
 	- Three strike system
 	- Includes general and committee
 	- Up to a week after to update about absences

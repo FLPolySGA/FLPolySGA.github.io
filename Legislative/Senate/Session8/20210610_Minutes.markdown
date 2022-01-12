@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minutes
 title: "Florida Polytechnic University Senate Meeting Minutes (June 10, 2021)"
 permalink: /Legislative/Senate/Session8/20210610_Minutes/
 categories: Session8

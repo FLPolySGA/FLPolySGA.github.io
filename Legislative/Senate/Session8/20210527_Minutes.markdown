@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minutes
 title: "Florida Polytechnic University Senate Meeting Minutes (May 27, 2021)"
 permalink: /Legislative/Senate/Session8/20210527_Minutes/
 categories: Session8
@@ -55,7 +55,7 @@ categories: Session8
 		- Some training required over the Summer
 	- NEST Form
 		- Senators filled it during the meeting
-- Second <a href="https://github.com/FLPolySGA/FLPolySGA.github.io/blob/main/Legislative/Senate/Session8/20210527_PresentedItems/PROPOSED_AMENDED_2021-2022_Budget.pdf" target="_blank" rel="noopener noreferrer">Budget</a> Reading
+- Second <u>Budget</u> Reading
 	- Stricked = removed
 	- Highlighted = added or changed
 	- Document is in the meeting folder. I have noted any important changes below
