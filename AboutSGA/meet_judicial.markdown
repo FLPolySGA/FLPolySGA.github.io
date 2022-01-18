@@ -27,7 +27,7 @@ categories: AboutSGA
 > 
 > [Email Yuki](mailto:ylieu7013@floridapoly.edu)
 
-<img src="/assets/Judicial/conner_murphy.jpeg" height="200"/>
+<img src="/assets/Judicial/conner_murphy.jpg" height="200"/>
 
 > Conner Murphy
 > 
