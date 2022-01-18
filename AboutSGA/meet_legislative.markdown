@@ -8,6 +8,9 @@ categories: AboutSGA
 [**_Switch to Representative View_**](/AboutSGA/MeetLegislativeRepresentatives/)
 
 ### Senate President
+
+<img src="/assets/Legislative/melia_rodriguez.jpg" alt="Senate President" height="200"/>
+
 > Melia Rodriguez
 > 
 > [Email the Senate President](mailto:mrodriguez@floridapoly.edu)
@@ -43,9 +46,12 @@ categories: AboutSGA
 
 ### Internal Communications Committee
 ## ICC Chair
-> Benjamin Dinal
+
+<img src="/assets/Legislative/gustavo_maldonado.jpg" alt="ICC Chair" height="200"/>
+
+> Gustavo Maldonado
 > 
-> [Email the ICC Chair](mailto:bdinal@floridapoly.edu)
+> [Email Gustavo](mailto:gmaldonado@floridapoly.edu)
 
 ### ICC Vice Chair
 > Douglas Poole
@@ -59,13 +65,11 @@ categories: AboutSGA
 > 
 > [Email Benjamin](mailto:bbrienen@floridapoly.edu)
 
+<img src="/assets/Legislative/jake_karas.jpg" height="200"/>
+
 > Jake Karas
 > 
 > [Email Jake](mailto:jkaras@floridapoly.edu)
-
-> Gustavo Maldonado
-> 
-> [Email Gustavo](mailto:gmaldonado@floridapoly.edu)
 
 > Ekar Pena
 > 
