@@ -7,6 +7,7 @@ categories: Session8
 
 | Date | Agenda | Minutes |
 |------|--------|---------|
+| February 22, 2022 | [Agenda](/Legislative/Senate/Session8/20220222_Agenda/) | [Minutes](/Legislative/Senate/Session8/20220222_Minutes/) |
 | July 8, 2021 | [Agenda](/Legislative/Senate/Session8/20210708_Agenda/) | [Minutes](/Legislative/Senate/Session8/20210708_Minutes/) |
 | July 1, 2021 | [Agenda](/Legislative/Senate/Session8/20210701_Agenda/) | [Minutes](/Legislative/Senate/Session8/20210701_Minutes/) |
 | June 24, 2021 | [Agenda](/Legislative/Senate/Session8/20210624_Agenda/) | [Minutes](/Legislative/Senate/Session8/20210624_Minutes/) |
