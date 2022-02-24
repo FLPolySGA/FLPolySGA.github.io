@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Florida Polytechnic University Senate Meeting Minutes (February 22, 2022)"
-permalink: /Legislative/Senate/Session8/20220222_Minutes/
+title: "Florida Polytechnic University Senate Meeting Minutes (February 23, 2022)"
+permalink: /Legislative/Senate/Session8/20220223_Minutes/
 categories: Session8
 ---
 
-> **Date:** 02.22.2022
+> **Date:** 02.23.2022
 >
 > **Author:** Victoria Correa Andrade
 >

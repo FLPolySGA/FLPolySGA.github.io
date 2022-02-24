@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Florida Polytechnic University Senate Meeting Agenda (February 22, 2022)"
-permalink: /Legislative/Senate/Session8/20220222_Agenda/
+title: "Florida Polytechnic University Senate Meeting Agenda (February 23, 2022)"
+permalink: /Legislative/Senate/Session8/20220223_Agenda/
 categories: Session8
 ---
 
 <div style="text-align: center"><img src="/assets/SGASeal.png" /></div>
 
 <center><b>Florida Polytechnic University Senate Meeting Agenda</b></center>
-<center><em>(February 22, 2022)</em></center>
+<center><em>(February 23, 2022)</em></center>
 <br>
 
 ## Reading and approval of agenda
