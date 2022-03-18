@@ -13,20 +13,18 @@ categories: Session8
 
 ## Attendance
 
-| Member | Meeting Start | Meeting End |
-|--------|---|---|
-| Melia Rodriguez **(Senate President)** 	| P 		| P |
-| Benji Dinal **(Senate Pro Tempore)** 		| P 		| P |
-| Graham Gilbert **(ABC Chair)** 			| P 		| P |
-| Ezekiel Huynh **(SOC Chair)**				| P 		| P |
-| Breanne Menikheim **(ICC Chair)**			| P 		| P |
-| Catherine Abraham							| P 		| P |
-| Alexander Gage 							| P 		| P |
-| Jake Karas 								| P 		| P |
-| Gustavo Maldonado 						| P 		| P |
-| Julian Melendez 							| P 		| P |
-| Charles 									| P 		| P |
-| Douglas Poole 							| P			| P |
+| Member                                 | Meeting Start | Meeting End |
+| -------------------------------------- | ------------- | ----------- |
+| Melia Rodriguez **(Senate President)** | P             | P           |
+| Benji Dinal **(Senate Pro Tempore)**   | P             | P           |
+| Graham Gilbert **(ABC Chair)**         | P             | P           |
+| Alexander Gage  **(SOC Chair)**        | P             | P           |
+| Breanne Menikheim **(ICC Chair)**      | P             | P           |
+| Catherine Abraham                      | P             | P           |
+| Jake Karas                             | P             | P           |
+| Gustavo Maldonado                      | P             | P           |
+| Mc Ben Joe Charles                     | P             | P           |
+| Douglas Poole                          | P             | P           |
 
 > Legend:
 >

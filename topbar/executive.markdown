@@ -26,3 +26,7 @@ CAB consists of committees working together to plan and facilitate events throug
 The University Safety Committee Student Representative is the link between University safety services and the student body. It is their job to keep the Executive Board up to date on all construction projects and updates on campus, as well as any safety concerns such as the maintenance of Blue Light Boxes, IST power washing, and more. They also bring student safety concerns to the relevant University authorities so that those issues can be addressed in a timely manner.
 
 ### Sustainability Committee
+
+## Executive Meeting Agendas and Minutes
+
+- [Session 8 (Spring 2021-Spring 2022)](/Executive/Session8/)
