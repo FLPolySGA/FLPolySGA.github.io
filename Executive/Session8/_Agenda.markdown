@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Florida Polytechnic University Senate Meeting Agenda (Month dd, yyyy)"
+title: "Florida Polytechnic University Executive Board Meeting Agenda (Month dd, yyyy)"
 permalink: /Executive/Session8/yyyymmdd_Agenda/
 categories: Session8
 ---

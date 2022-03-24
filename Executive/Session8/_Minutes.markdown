@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Florida Polytechnic University Senate Meeting Minutes (Month dd, yyyy)"
+title: "Florida Polytechnic University Executive Board Meeting Minutes (Month dd, yyyy)"
 permalink: /Executive/Session8/yyyymmdd_Minutes/
 categories: Session8
 ---
