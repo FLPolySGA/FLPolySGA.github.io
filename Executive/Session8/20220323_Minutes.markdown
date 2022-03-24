@@ -1,0 +1,213 @@
+---
+layout: page
+title: "Florida Polytechnic University Executive Board Meeting Minutes (March 23, 2022)"
+permalink: /Executive/Session8/20220323_Minutes/
+categories: Session8
+---
+
+> **Date:** 03.23.2022
+>
+> **Author:** Victoria Correa Andrade
+
+## Attendance
+- Samantha Ashby *President*
+- Gus Lipkin *Vice President*
+- Jake Greenberg *Treasurer*
+- Victoria Correa Andrade *Chief of Staff*
+- Dmitri *Standards and Enforcement*
+- ~~Vanessa Townsend *CAB President*~~ (Excused; conference)
+- Inez Prior *Student Media Director*
+- ~~*Safety Committee*~~
+- Jacob Strayer *Sustainability Committee* (Arrived late at 5:35pm)
+
+> **Start Time:** 05:30PM
+
+## Initial Motions
+- Motion has been properly made to approve this meeting’s agenda by Jake and seconded by Gus, passes unanimously. 
+- Motion has been properly made to approve last meeting’s meeting minutes by Jake and seconded by Gus, passes unanimously. 
+
+## External Updates
+### Melia
+- Constitution is done
+- Elections
+  - Statute is done, so we have a policy for special elections
+  - Resolution passed
+    - Applications close Friday at 6pm
+### Kyle - Sustainability
+- Went to the garden
+  - Planted seeds
+  - Weeded
+  - Got the watering system working
+- Fence has not been put up
+
+## Executive Updates
+
+### Standards and Enforcement
+- No update
+
+### Chief of Staff
+- No update
+
+### Treasurer
+- No update
+
+### Vice President
+- No update
+
+### President
+- Followed up with facilities
+- Have been talked to registrar about the cord situation
+  - Asked for the policy on cords and memarobilia 
+  - Will be meeting on Monday
+- Archery
+  - Has been shooting on campus
+- There are some concerns about scholarships for TEAMS
+- Dining
+  - Now the sandwich and grill stations can do food on the spot during late lunch
+  - Build a form for secret shopper to make it more anonymous
+  - There is a number that students can message to give them feedback
+  - Fire and Ash
+    - Not sure what will be doing for next year
+    - For finals, will be getting extra noodels cups, coffee, so students can burn through their Phoenix Funds
+  - Student workers
+    - There are some problems with times and problem with supervisors
+    - They are working to address this
+- Phoenix Square next month
+- NOVA Awards
+  - Getting quotes for awards
+  - Most likely doing be fundraised funds
+- Talked to ASC about pantry
+  - Need help with some planning
+- SGA Celebration
+  - Swimming at the SDC
+- Elections
+  - First meeting today, next one Friday
+- Legislation session has finished
+  - Fee waiver for STEM degrees passed
+  - Need different accrediations
+- Finals week PRs
+
+## Agenda
+
+### Textmate
+- Work directly with CANVAS 
+- Get reminders from canvas directly to your phone via text messages (as opposed to notifications if you installed the CANVAS app). 
+- Anything completed will no longer be shown in the text updates 
+- Reminders would be sent once a day, unlike CANVAS notifications 
+- There is also an option for extra reminders, where students can add extra reminders to be send in the same text, along with their CANVAS assignments
+- Website 
+- Students can pick how many assignments can see at a time, what time they’d like to receive the reminders 
+- Does it includes anything other than due dates, like discussion posts? 
+  - Focus on due dates – something like announcements would not be included 
+- Adoption rate of the program in other schools? 
+  - At FAU, they paid for 500 students and all slots were filled 
+  - At another school, they paid for their entire body (but he did not mention 
+- Service uptime percentage? 
+  - No major outages  
+  - Text message support number that students can use 
+- How old is this system? 
+  - Summer 2020 
+- Privacy 
+  - What information is shared with CANVAS? 
+    - None, just pull information that CANVAS has 
+    - Does not pull grades 
+  - Take privacy very seriously 
+- Pausing the text 
+  - Do it within settings 
+- Can you set different time periods for reminders depending on the type of due date? 
+  - Eg. Assignments and exams 
+  - Did not directly answer, but mentioned that it’ll show future assignments if there is nothing in the chosen timeframe 
+- Can prioritize notification based on how much the assignment is worth? 
+  - No, only looks at due dates 
+- Is there a way to send multiple texts a day? 
+  - No 
+- Pricing 
+  - $2.50 per student per month 
+  - Happy to sit down and work with our budget if needed 
+- Possible for students to purchase this through the school but on their own? 
+  - Go to CANVAS and buy it there 
+  - It is possible; they would have to contact the company directly 
+- Would like to recommend to the university?
+  - Most likely no
+### Fishing
+  - Presented by a student 
+  - Policy is vague and inconsistent 
+  - Getting information from staff resulted in some conflicting information 
+    - Seems like police either does not know of the policy or are not enforcing the policy 
+  - Would like to change to allow them to fish in all bodies of water on campus, but the university could set perimeters or time periods that students cannot fish  
+  - Currently, the policy says that there is only one place on campus where fishing is allowed – the farthest pond from the IST 
+    - Also, fishing in that direction (facing the poles) means that no students would be in danger of being hit by a line
+  - Have discussed with the chief? 
+    - Not sure; student said they talked to different officers 
+  - Recommended reaching out to them 
+  - This is not a policy that SGA oversees 
+  - Student also mentions seeing students skating in the brigdes
+    - Not allowed
+  - Student also mentions that the university should allow students to do things and the students would take responsibility for it
+    - Liability; student can have a lawsuit against the university
+  - Main point: increase fishing area, specify rules more, and make sure the police know of this policy
+  - Will bring this to facilities
+### Constitution
+  -  Was approved today
+  -  Need a paper copy for Sam to sign
+### FL PolyCon Debrief
+  - Total revenue: $11.2k in tickets + $5.9k in other stuff (day of tickets, merchandized)
+  - Around 1650 checked in people
+  - Even chairs and heads will write a list of dos and donts, and are also asking for current chairs to train their replacements
+  - Paul wants PolyCon no longer under CAB, and instead be an agency or under student affairs
+    - Most students want to participate it, but no one expressed interest in helping organize
+    - If the university wants control of it, then they should be the ones paying for it as well
+    - We currently are having problem keeping students in leadership positions
+    - Would most likely need to find new advisors as well (or at least have one new person besides the current people)
+    - Will meet in Paul to further discuss
+### Housing
+  - Received a PDF with updates (in Presented Documents)
+  - Bringing 100 less students for the incoming class
+  - Housing solutions
+    - Currently 310 beds reserved for incoming students
+    - Cannot do modular housing
+    - Still looking into building a metal building for more housing, but would not be possible for Fall 2022
+    - Not converting RAs rooms to doubles
+    - Phase 2 singles were changed to doubles
+    - Off-campus apartments do not want to work with the university
+      - University wants RAs and events in the apartments, which they do not want to do
+    - Will be increasing transportation services
+### TEAMS
+  - Robotics might not be a team next year
+    - Unsustainable growth because of the amount of people added
+    - The team would not be able to use tools from the RSO. Also, someone in the eboard cannot be a captain of a Team
+  - Have not received the list from Derek
+### SGA Staffing
+  - Isabel starts on Friday
+  - Will be in the SDC
+### Assets
+  - Request from Music Association to store their assets in the NEST
+  - Will route them to Dmitri so the assets can get tagged 
+  - They did not mention what they are trying to store
+  - Could have them do a long checkout form instead depending on size
+### SGA Celebration
+  - April 14th around 7pm
+  - NEST
+  - Could also do a movie by the pool afterwards
+  - Potluck or buy food?
+    - Potluck, with an excel sheet so poeple can sign up to bring a specific type of item
+### SNAP
+  - Supplemental Nutrition Assitance Program (food stamps)
+  - Received an email asking for support to make the changes to this program made by CARES permanent
+    - Extended requirements to include more students
+  - Would like more information before supporting it 
+### General Discussion
+  - None
+
+> **End Time:** 7:44PM
+
+## Attendance
+- Samantha Ashby *President*
+- Gus Lipkin *Vice President*
+- ~~Jake Greenberg *Treasurer*~~ (Left early at 7:01pm to attend ABC)
+- Victoria Correa Andrade *Chief of Staff*
+- Dmitri *Standards and Enforcement *
+- ~~Vanessa Townsend *CAB President*~~
+- Inez Prior *Student Media Director *
+- ~~*Safety Committee*~~
+- ~~Jacob Strayer *Sustainability Committee*~~ (Left early 6:13pm)
