@@ -7,6 +7,7 @@ categories: Session8
 
 | Date              | Agenda                                                  | Minutes                                                   |
 | ----------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| March 30, 2022 | [Agenda](/Legislative/Senate/Session8/20220330_Agenda/) | [Minutes](/Legislative/Senate/Session8/20220330_Minutes/) |
 | March 23, 2022 | [Agenda](/Legislative/Senate/Session8/20220323_Agenda/) | [Minutes](/Legislative/Senate/Session8/20220323_Minutes/) |
 | March 21, 2022 | [Agenda](/Legislative/Senate/Session8/20220321_Agenda/) | [Minutes](/Legislative/Senate/Session8/20220321_Minutes/) |
 | March 16, 2022 | [Agenda](/Legislative/Senate/Session8/20220316_Agenda/) | [Minutes](/Legislative/Senate/Session8/20220316_Minutes/) |
