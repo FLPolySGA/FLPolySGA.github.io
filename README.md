@@ -42,7 +42,7 @@ Our website is written in [markdown](https://www.markdownguide.org/getting-start
 
 ### Using Markdown
 
-- A basic guide for using mardown can be found [here](https://www.markdownguide.org/basic-syntax/). If you would like to see the source code for this page and what it looks like behind the scenes, you can view it [here](https://raw.githubusercontent.com/FLPolySGA/FLPolySGA.github.io/main/README).
+- A basic guide for using mardown can be found [here](https://www.markdownguide.org/basic-syntax/). If you would like to see the source code for this page and what it looks like behind the scenes, you can view it [here](https://raw.githubusercontent.com/FLPolySGA/FLPolySGA.github.io/main/README.md).
 
 ### Creating a Pull Request
 
