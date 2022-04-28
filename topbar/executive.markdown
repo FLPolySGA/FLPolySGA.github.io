@@ -29,4 +29,5 @@ The University Safety Committee Student Representative is the link between Unive
 
 ## Executive Meeting Agendas and Minutes
 
+- [Session 9 (Spring 2022-Spring 2023)](/Executive/Session9/)
 - [Session 8 (Spring 2021-Spring 2022)](/Executive/Session8/)

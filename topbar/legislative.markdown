@@ -28,11 +28,15 @@ The Student Organizations Committee (SOC) deals with student organizations and c
 
 Contact the [Student Organizations Committee](mailto:SOC@floridapoly.edu)
 
-### [Information and Communications Committee](/Legislative/ICC/)
+### Information and Communications Committee
+
 The Information and Communications Committee (ICC) deals with SGA and Legislative Branch communication. A major role of the ICC is to help keep students and other SGA members informed. The ICC is committed to keeping SGA and students informed throughout the year.
 
 Contact the [Information and Communication Committee](mailto:ICC@floridapoly.edu)
 
+### [Advocacy and Communications Committee](/Legislative/ACC/)
+
 ## General Senate Meeting Agendas and Minutes
 
+- [Session 9 (Spring 2022-Spring 2023)](/Legislative/Senate/Session9/)
 - [Session 8 (Spring 2021-Spring 2022)](/Legislative/Senate/Session8/)
