@@ -11,12 +11,12 @@ toc: true
 
 ## Table of Contents
 
-- [About Our Website](##About-Our-Website)
-- [Contributing](#Contributing)
-- [Creating a Local Copy](##Creating-a-Local-Copy)
-  - [Cloning the Repository](###Cloning-the-Repository)
-  - [Installing Jekyll](###Installing-Jekyll)
-  - [Running a Local Copy](###Running-a-Local-Copy)
+- [About Our Website](#about-our-website)
+- [Contributing](#contributing)
+- [Creating a Local Copy](#creating-a-local-copy)
+  - [Cloning the Repository](#cloning-the-repository)
+  - [Installing Jekyll](#installing-jekyll)
+  - [Running a Local Copy](#running-a-local-copy)
 
 ## About Our Website
 
